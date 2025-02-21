@@ -259,6 +259,9 @@ https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="insight.au" tvg-name="Infast" tvg-logo="https://business.insight.tv/wp-content/uploads/2021/01/Insight-TV-Logo-small-150x150.png" group-title="TV Premium Campur", INSIGHT
 https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG" group-title="TV Premium Campur",Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+
 
 
 ===============Radio RRI Sumatera Barat=================
