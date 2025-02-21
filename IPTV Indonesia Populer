@@ -15,6 +15,9 @@ https://raw.githubusercontent.com/windozalmi/Playlist-IPTV-Indonesia-online-Akti
 5. Lalu klik "simpan dan mainkan"
 
 6. Enjoy!!!
+
+Untuk update data list TV,refresh secara berkala di menu pengaturan dengan mengklik "muat playlist", kemudian "simpan dan mainkan" !!!
+(Jika admin lagi tidak mager untuk update data playlist nya 😁)
 ======================================================================================================
 
 
@@ -262,6 +265,10 @@ https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG" group-title="TV Premium Campur",Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/012020/moonbug_kids_on_white.png?N15F03k4i.bbYpm4vkwIU0HwhRsSA4YX&itok=zAZIL7t_" group-title="TV Premium Campur",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 
 ===============Radio RRI Sumatera Barat=================
