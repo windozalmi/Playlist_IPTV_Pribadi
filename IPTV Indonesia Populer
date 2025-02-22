@@ -327,6 +327,15 @@ https://stream-node1.rri.co.id/streaming/16/9216/rribkttinggipro4.mp3
 
 ===============TRANSVISION=================
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="CHANNEL | TRANSVISION",Golf+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
+
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjCy6rzJ/TVRI.png" group-title="CHANNEL | TRANSVISION",TVRI
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1785,15 +1794,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
 
 
 ===============Vidio Sport=================
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="SPORT Vidio",Golf+
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"21afccfca882b6fd029bfbf101b039c4":"4178b215436eb40ec733adc233ff1760"}
