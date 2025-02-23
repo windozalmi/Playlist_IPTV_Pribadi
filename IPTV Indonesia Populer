@@ -278,7 +278,7 @@ http://iptv12k.com:35461/654321/123456/2092
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2019/05/disney-channel-logo.jpg" group-title="TV Premium Campur",Disney Channel
 http://iptv12k.com:35461/654321/123456/2090
 
-#EXTINF:-1 channel-id="pluto-60fb01a24795a6000762fe83" tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://i.ibb.co.com/QkNWGtG/legokidstv.png" tvg-chno="3210" group-title="🔴ANAK" , LEGO Kids TV 
+#EXTINF:-1 channel-id="pluto-60fb01a24795a6000762fe83" tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://i.ibb.co.com/QkNWGtG/legokidstv.png" tvg-chno="3210" group-title="TV Premium Campur" , LEGO Kids TV 
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a0043a-b258-11ee-b6c7-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bca05fe1-d777-48d3-80f2-58183408d1d1&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/1024x536/7/3/5/6735_animalplanetnewlogo2018_906859.jpg" group-title="TV Premium Campur",Animal Planet
