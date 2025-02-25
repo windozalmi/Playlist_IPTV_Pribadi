@@ -325,30 +325,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
 
-===============Radio RRI Sumatera Barat=================
-
-#EXTINF:-1 tvg-id="Sushi FM Padang" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2f/Logo_Sushi_FM.jpg" group-title="Radio Sumatera Barat",Sushi FM Padang
-https://stream2.jejestreaming.com:9200/stream
-
-#EXTINF:-1 tvg-id="Pro 1 RRI Padang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/RRI_Pro_1_Padang_2023.svg/512px-RRI_Pro_1_Padang_2023.svg.png" group-title="Radio Sumatera Barat",Pro 1 RRI Padang
-https://stream-node0.rri.co.id/streaming/11/9111/rripadangpro1.mp3
-
-#EXTINF:-1 tvg-id="Pro 2 RRI Padang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RRI_Pro_2_Padang_2023.svg/512px-RRI_Pro_2_Padang_2023.svg.png" group-title="Radio Sumatera Barat",Pro 2 RRI Padang
-https://stream-node0.rri.co.id/streaming/11/9111/rripadangpro2.mp3
-
-#EXTINF:-1 tvg-id="Pro 4 RRI Padang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/RRI_Pro_4_Padang_2023.svg/512px-RRI_Pro_4_Padang_2023.svg.png" group-title="Radio Sumatera Barat",Pro 4 RRI Padang
-https://stream-node0.rri.co.id/streaming/11/9111/rripadangpro4.mp3
-
-#EXTINF:-1 tvg-id="Pro 1 RRI Bukittinggi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/RRI_Pro_1_Bukittinggi_2023.svg/512px-RRI_Pro_1_Bukittinggi_2023.svg.png" group-title="Radio Sumatera Barat",Pro 1 RRI Bukittinggi 
-https://stream-node1.rri.co.id/streaming/16/9216/rribkttinggipro1.mp3
-
-#EXTINF:-1 tvg-id="Pro 2 RRI Bukittinggi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RRI_Pro_2_Bukittinggi_2023.svg/512px-RRI_Pro_2_Bukittinggi_2023.svg.png" group-title="Radio Sumatera Barat",Pro 2 RRI Bukittinggi 
-https://stream-node1.rri.co.id/streaming/16/9216/rribkttinggipro2.mp3
-
-#EXTINF:-1 tvg-id="Pro 4 RRI Bukittinggi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/RRI_Pro_4_Bukittinggi_2023.svg/512px-RRI_Pro_4_Bukittinggi_2023.svg.png" group-title="Radio Sumatera Barat",Pro 4 RRI Bukittinggi 
-https://stream-node1.rri.co.id/streaming/16/9216/rribkttinggipro4.mp3
-
-
 
 ===============TRANSVISION=================
 
