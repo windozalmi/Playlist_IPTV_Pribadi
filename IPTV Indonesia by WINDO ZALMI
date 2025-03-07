@@ -1913,3 +1913,16 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/BRI_Liga_1.svg/240px-BRI_Liga_1.svg.png" group-title="TV Premium Campur",Indosiar BRI Liga HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
+#EXT-X-ALLOW-CACHE:YES
+#EXTVLCOPT:http-reconnect=true
+https://kusnadipepenk.github.io/campeign/indos.m3u8
+###http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
+###https://z88.ubtvfans.com/live/rx4/2950/11ec1213576f78c525ee370cd3a01fb0/index.m3u8
+###http://103.226.232.196:8000/play/a00l/index.m3u8
+###http://aanax.com:8080/F14995/a84c0963/162138
+###http://23.237.4.122:8070/LeCyGodF/thYAg86ShLywX9FL/162138
+###http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162138
+###http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
