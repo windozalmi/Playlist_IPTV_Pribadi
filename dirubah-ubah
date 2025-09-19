@@ -1,2 +1,1044 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-ID="trt1.tr" tvg-name="|TR| TRT 1" tvg-logo="http://138.199.27.237:8080/TURKIYE/TRT1HD.png" group-title="|TR| ULUSAL",|TR| TRT 1
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10790
+#EXTINF:-1 tvg-ID="showtv.tr" tvg-name="|TR| SHOW TV" tvg-logo="http://138.199.27.237:8080/TURKIYE/SHOWHD.png" group-title="|TR| ULUSAL",|TR| SHOW TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10794
+#EXTINF:-1 tvg-ID="kanald.tr" tvg-name="|TR| KANAL D" tvg-logo="http://138.199.27.237:8080/TURKIYE/KANALD.png" group-title="|TR| ULUSAL",|TR| KANAL D
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10762
+#EXTINF:-1 tvg-ID="atv.tr" tvg-name="|TR| ATV" tvg-logo="http://138.199.27.237:8080/TURKIYE/ATVHD.png" group-title="|TR| ULUSAL",|TR| ATV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10792
+#EXTINF:-1 tvg-ID="startv.tr" tvg-name="|TR| STAR TV" tvg-logo="http://138.199.27.237:8080/TURKIYE/STAR.png" group-title="|TR| ULUSAL",|TR| STAR TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10725
+#EXTINF:-1 tvg-ID="fox.tr" tvg-name="|TR| FOX TV" tvg-logo="http://138.199.27.237:8080/TURKIYE/FOX.png" group-title="|TR| ULUSAL",|TR| FOX TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10732
+#EXTINF:-1 tvg-ID="beyaztv.tr" tvg-name="|TR| BEYAZ TV" tvg-logo="http://138.199.27.237:8080/TURKIYE/BEYAZHDPLUS.png" group-title="|TR| ULUSAL",|TR| BEYAZ TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10757
+#EXTINF:-1 tvg-ID="tv8.tr" tvg-name="|TR| TV8" tvg-logo="http://138.199.27.237:8080/TURKIYE/TV8HD.png" group-title="|TR| ULUSAL",|TR| TV8
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10774
+#EXTINF:-1 tvg-ID="tv85.tr" tvg-name="|TR| TV8.5" tvg-logo="http://138.199.27.237:8080/TURKIYE/TV8.5HDPLUS.png" group-title="|TR| ULUSAL",|TR| TV8.5
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10773
+#EXTINF:-1 tvg-ID="tv8.tr" tvg-name="|TR| TV8 INT" tvg-logo="http://138.199.27.237:8080/TURKIYE/TV8HD.png" group-title="|TR| ULUSAL",|TR| TV8 INT
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314614
+#EXTINF:-1 tvg-ID="kanal7.tr" tvg-name="|TR| KANAL 7" tvg-logo="http://138.199.27.237:8080/TURKIYE/KANAL7.png" group-title="|TR| ULUSAL",|TR| KANAL 7
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10763
+#EXTINF:-1 tvg-ID="a2tv.tr" tvg-name="|TR| A2" tvg-logo="http://138.199.27.237:8080/USA/A2.png" group-title="|TR| ULUSAL",|TR| A2
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10758
+#EXTINF:-1 tvg-ID="trtebatvlise.tr" tvg-name="|TR| TRT EBA LISE" tvg-logo="http://138.199.27.237:8080/TURKIYE/TRT-EBA-TV-HD.png" group-title="|TR| ULUSAL",|TR| TRT EBA LISE
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314597
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TV4" tvg-logo="http://138.199.27.237:8080/TURKIYE/TV%204HDPLUS.png" group-title="|TR| ULUSAL",|TR| TV4
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10775
+#EXTINF:-1 tvg-ID="teve2.tr" tvg-name="|TR| TEVE2" tvg-logo="http://138.199.27.237:8080/TURKIYE/TEVE2HDPLUS.png" group-title="|TR| ULUSAL",|TR| TEVE2
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314615
+#EXTINF:-1 tvg-ID="tlc.tr" tvg-name="|TR| TLC ˢᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/3503.png" group-title="|TR| ULUSAL",|TR| TLC ˢᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10776
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| 360 TV" tvg-logo="http://138.199.27.237:8080/TURKIYE/360TVHDPLUS.png" group-title="|TR| ULUSAL",|TR| 360 TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10761
+#EXTINF:-1 tvg-ID="euronews.tr" tvg-name="|TR| EURONEWS" tvg-logo="http://138.199.27.237:8080/TURKIYE/EURONEWSTURK.png" group-title="|TR| ULUSAL",|TR| EURONEWS
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10779
+#EXTINF:-1 tvg-ID="showtv.tr" tvg-name="|TR| SHOWTURK" tvg-logo="http://138.199.27.237:8080/TURKIYE/SHOWHD.png" group-title="|TR| ULUSAL",|TR| SHOWTURK
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314612
+#EXTINF:-1 tvg-ID="atv.tr" tvg-name="|TR| ATV EU" tvg-logo="http://138.199.27.237:8080/TURKIYE/ATVHD.png" group-title="|TR| ULUSAL",|TR| ATV EU
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314611
+#EXTINF:-1 tvg-ID="tgrthaber.tr" tvg-name="|TR| TGRT EU" tvg-logo="http://138.199.27.237:8080/TURKIYE/TGRTHABER.png" group-title="|TR| ULUSAL",|TR| TGRT EU
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314610
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| AKILLI TV" tvg-logo="https://play-lh.googleusercontent.com/PHmzTA1CyIcb_SqImT2iRdsH1TB7OAPdTZ5XqFBPLpDljhvL6uFsk5EKfsDUMi2CA18" group-title="|TR| ULUSAL",|TR| AKILLI TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314594
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| YILDIZ TILBE" tvg-logo="http://138.199.27.237:8080/TURKIYE/Yildizz.png" group-title="|TR| ULUSAL",|TR| YILDIZ TILBE
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314596
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| CEM TV" tvg-logo="http://138.199.27.237:8080/TURKIYE/CEMTV.png" group-title="|TR| ULUSAL",|TR| CEM TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314595
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MESAJ TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c8/Mesaj_TV_logosu.jpg" group-title="|TR| ULUSAL",|TR| MESAJ TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314609
+#EXTINF:-1 tvg-ID="meltemtv.tr" tvg-name="|TR| MELTEM TV" tvg-logo="http://138.199.27.237:8080/TURKIYE/MELTEMTV.png" group-title="|TR| ULUSAL",|TR| MELTEM TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314608
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BENGU TURK TV" tvg-logo="http://138.199.27.237:8080/TURKIYE/BEING%c3%9cRMEHD.png" group-title="|TR| ULUSAL",|TR| BENGU TURK TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10759
+#EXTINF:-1 tvg-ID="kanal7.tr" tvg-name="|TR| KANAL 7 AVRUPA ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal7_avrupa.png" group-title="|TR| ULUSAL",|TR| KANAL 7 AVRUPA ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/185790
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| SAT7 TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sat-7_Logo.jpg/640px-Sat-7_Logo.jpg" group-title="|TR| ULUSAL",|TR| SAT7 TURK
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314606
+#EXTINF:-1 tvg-ID="brt1.tr" tvg-name="|TR| BRT 1" tvg-logo="https://online-television.net/uploads/posts/2023-01/brt-1-tv-cyprus.webp" group-title="|TR| ULUSAL",|TR| BRT 1
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314605
+#EXTINF:-1 tvg-ID="brt2.tr" tvg-name="|TR| BRT 2" tvg-logo="http://138.199.27.237:8080/TURKIYE/BRT2.png" group-title="|TR| ULUSAL",|TR| BRT 2
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314604
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BRT 3" tvg-logo="https://okteve.com/wp-content/uploads/media/c7ba6b360e53641a2da409ec64a9ee46.jpeg" group-title="|TR| ULUSAL",|TR| BRT 3
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314603
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| KIBRIS ADA TV" tvg-logo="http://138.199.27.237:8080/TURKIYE/KIBRISADATV.png" group-title="|TR| ULUSAL",|TR| KIBRIS ADA TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314601
+#EXTINF:-1 tvg-ID="kanalft.tr" tvg-name="|TR| KIBRIS KANAL T" tvg-logo="http://138.199.27.237:8080/TURKIYE/KANALT.png" group-title="|TR| ULUSAL",|TR| KIBRIS KANAL T
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314602
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| KANAL SIM" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/e/ec/Kanal_Sim_Logosu.jpg/220px-Kanal_Sim_Logosu.jpg" group-title="|TR| ULUSAL",|TR| KANAL SIM
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314600
+#EXTINF:-1 tvg-ID="trtebatvortaokul.tr" tvg-name="|TR| TRT EBA ORTAOKUL" tvg-logo="http://138.199.27.237:8080/TURKIYE/TRT-EBA-TV-HD.png" group-title="|TR| ULUSAL",|TR| TRT EBA ORTAOKUL
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314598
+#EXTINF:-1 tvg-ID="trtebatvilkokul.tr" tvg-name="|TR| TRT EBA ILKOKUL" tvg-logo="http://138.199.27.237:8080/TURKIYE/TRT-EBA-TV-HD.png" group-title="|TR| ULUSAL",|TR| TRT EBA ILKOKUL
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314599
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| EURO D" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/eb/Eurod.jpg" group-title="|TR| ULUSAL",|TR| EURO D
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314613
+#EXTINF:-1 tvg-ID="24.tr" tvg-name="|TR| KANAL 23" tvg-logo="http://138.199.27.237:8080/TURKIYE/KANAL42KONYA.png" group-title="|TR| ULUSAL",|TR| KANAL 23
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10764
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| KANAL AVRUPA" tvg-logo="http://138.199.27.237:8080/TURKIYE/KANALAVRUPA.png" group-title="|TR| ULUSAL",|TR| KANAL AVRUPA
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314607
+#EXTINF:-1 tvg-ID="beingurme.tr" tvg-name="|TR| TURKMAX GURME" tvg-logo="http://138.199.27.237:8080/TURKIYE/BEING%c3%9cRMEHD.png" group-title="|TR| ULUSAL",|TR| TURKMAX GURME
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10781
+#EXTINF:-1 tvg-ID="ulusalkanal.tr" tvg-name="|TR| ULUSAL KANAL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ulusal_kanal.png" group-title="|TR| ULUSAL",|TR| ULUSAL KANAL
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/185787
+#EXTINF:-1 tvg-ID="trt1.tr" tvg-name="|TR|  TRT 1 ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-1-tr.png" group-title="|TR| ULUSAL HD",|TR|  TRT 1 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196784
+#EXTINF:-1 tvg-ID="showtv.tr" tvg-name="|TR|  SHOW TV ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/Show%20TV.png" group-title="|TR| ULUSAL HD",|TR|  SHOW TV ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196787
+#EXTINF:-1 tvg-ID="kanald.tr" tvg-name="|TR|  KANAL D ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/KANAL%20D.png" group-title="|TR| ULUSAL HD",|TR|  KANAL D ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196789
+#EXTINF:-1 tvg-ID="atv.tr" tvg-name="|TR|  ATV ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png" group-title="|TR| ULUSAL HD",|TR|  ATV ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196786
+#EXTINF:-1 tvg-ID="startv.tr" tvg-name="|TR|  STAR TV ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="|TR| ULUSAL HD",|TR|  STAR TV ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196788
+#EXTINF:-1 tvg-ID="fox.tr" tvg-name="|TR|  FOX TV ᴴᴰ" tvg-logo="http://iptvtelekom.com/newpicon/foxtv.png" group-title="|TR| ULUSAL HD",|TR|  FOX TV ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196790
+#EXTINF:-1 tvg-ID="beyaztv.tr" tvg-name="|TR|  BEYAZ TV ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/BEYAZ%20TV%20RAW.jpg" group-title="|TR| ULUSAL HD",|TR|  BEYAZ TV ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196794
+#EXTINF:-1 tvg-ID="tv8.tr" tvg-name="|TR|  TV 8 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/TV8HD.png" group-title="|TR| ULUSAL HD",|TR|  TV 8 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196791
+#EXTINF:-1 tvg-ID="tv85.tr" tvg-name="|TR|  TV 8 5 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/TV8.5HD.png" group-title="|TR| ULUSAL HD",|TR|  TV 8 5 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196792
+#EXTINF:-1 tvg-ID="a2tv.tr" tvg-name="|TR|  A2 ᴴᴰ" tvg-logo="http://iptvtelekom.com/newpicon/a2hd.png" group-title="|TR| ULUSAL HD",|TR|  A2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196793
+#EXTINF:-1 tvg-ID="tv4.tr" tvg-name="|TR| TV 4 ᴴᴰ" tvg-logo="https://www.turkmedya.com.tr/assets/img/source/jpg/tv4.jpg?v=1114" group-title="|TR| ULUSAL HD",|TR| TV 4 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314593
+#EXTINF:-1 tvg-ID="trt2.tr" tvg-name="|TR|  TRT2 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/TRT2%20RAW.jpg" group-title="|TR| ULUSAL HD",|TR|  TRT2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196785
+#EXTINF:-1 tvg-ID="trtavaz.tr" tvg-name="|TR| TRT AVAZ" tvg-logo="http://138.199.27.237:8080/TURKIYE/TRTAVAZHDPLUS.png" group-title="|TR| ULUSAL HD",|TR| TRT AVAZ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10789
+#EXTINF:-1 tvg-ID="trtkurdi.tr" tvg-name="|TR|  TRT KURDI ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/TRT_Kurd%C3%AE_logosu.png" group-title="|TR| ULUSAL HD",|TR|  TRT KURDI ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196814
+#EXTINF:-1 tvg-ID="teve2.tr" tvg-name="|TR|  TEVE2 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/teve2.png" group-title="|TR| ULUSAL HD",|TR|  TEVE2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196796
+#EXTINF:-1 tvg-ID="showmax.tr" tvg-name="|TR| SHOWMAX ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/SHOWMAX.png" group-title="|TR| ULUSAL HD",|TR| SHOWMAX ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314591
+#EXTINF:-1 tvg-ID="kanal7.tr" tvg-name="|TR|  KANAL 7 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/KANAL%207.jpg" group-title="|TR| ULUSAL HD",|TR|  KANAL 7 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196795
+#EXTINF:-1 tvg-ID="ucankus.tr" tvg-name="|TR| UCANKUS ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/UCANKUSTV.png" group-title="|TR| ULUSAL HD",|TR| UCANKUS ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314592
+#EXTINF:-1 tvg-ID="360.tr" tvg-name="|TR|  360 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/360%20RAW.jpg" group-title="|TR| ULUSAL HD",|TR|  360 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196805
+#EXTINF:-1 tvg-ID="trtturk.tr" tvg-name="|TR|  TRT TURK ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_turk_tr.png" group-title="|TR| ULUSAL HD",|TR|  TRT TURK ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196812
+#EXTINF:-1 tvg-ID="tlc.tr" tvg-name="|TR| TLC" tvg-logo="http://138.199.27.237:8080/0tv_logo/3503.png" group-title="|TR| ULUSAL HD",|TR| TLC
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10730
+#EXTINF:-1 tvg-ID="brt1.tr" tvg-name="|TR|  BRT 1 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/BRT%201.png" group-title="|TR| ULUSAL HD",|TR|  BRT 1 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196817
+#EXTINF:-1 tvg-ID="brt2.tr" tvg-name="|TR|  BRT 2 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/BRT%202%20RAW.webp" group-title="|TR| ULUSAL HD",|TR|  BRT 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196818
+#EXTINF:-1 tvg-ID="trtturk.tr" tvg-name="|TR| TRT TURK ᵁᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_turk_tr.png" group-title="|TR| ULUSAL FHD",|TR| TRT TURK ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170669
+#EXTINF:-1 tvg-ID="trt1.tr" tvg-name="|TR| TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-1-tr.png" group-title="|TR| ULUSAL FHD",|TR| TRT 1
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170655
+#EXTINF:-1 tvg-ID="showtv.tr" tvg-name="|TR| SHOW TV ᵁᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png" group-title="|TR| ULUSAL FHD",|TR| SHOW TV ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170657
+#EXTINF:-1 tvg-ID="kanald.tr" tvg-name="|TR| KANAL D ᵁᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png" group-title="|TR| ULUSAL FHD",|TR| KANAL D ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170658
+#EXTINF:-1 tvg-ID="atv.tr" tvg-name="|TR| ATV ᵁᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png" group-title="|TR| ULUSAL FHD",|TR| ATV ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170656
+#EXTINF:-1 tvg-ID="startv.tr" tvg-name="|TR| STAR TV ᵁᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="|TR| ULUSAL FHD",|TR| STAR TV ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170659
+#EXTINF:-1 tvg-ID="fox.tr" tvg-name="|TR| FOX TV ᵁᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" group-title="|TR| ULUSAL FHD",|TR| FOX TV ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170660
+#EXTINF:-1 tvg-ID="beyaztv.tr" tvg-name="|TR| BEYAZ TV  ᵁᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png" group-title="|TR| ULUSAL FHD",|TR| BEYAZ TV  ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170663
+#EXTINF:-1 tvg-ID="tv8.tr" tvg-name="|TR| TV 8 ᵁᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="|TR| ULUSAL FHD",|TR| TV 8 ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170661
+#EXTINF:-1 tvg-ID="tv85.tr" tvg-name="|TR| TV 8.5 ᵁᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png" group-title="|TR| ULUSAL FHD",|TR| TV 8.5 ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170662
+#EXTINF:-1 tvg-ID="kanal7.tr" tvg-name="|TR| KANAL 7 ᵁᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal7_tr.png" group-title="|TR| ULUSAL FHD",|TR| KANAL 7 ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170664
+#EXTINF:-1 tvg-ID="a2tv.tr" tvg-name="|TR| A2 ᵁᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr_2.png" group-title="|TR| ULUSAL FHD",|TR| A2 ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170666
+#EXTINF:-1 tvg-ID="teve2.tr" tvg-name="|TR| TEVE 2 ᵁᴴᴰ" tvg-logo="http://iptvtelekom.com/newpicon/teve2.png" group-title="|TR| ULUSAL FHD",|TR| TEVE 2 ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170665
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| FOX CRIME ᵁᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/97/Foxcrimehd.png" group-title="|TR| ULUSAL FHD",|TR| FOX CRIME ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170682
+#EXTINF:-1 tvg-ID="360.tr" tvg-name="|TR| KANAL 360  ᵁᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/360_tv_tr.png" group-title="|TR| ULUSAL FHD",|TR| KANAL 360  ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170668
+#EXTINF:-1 tvg-ID="beinmoviespremier.tr" tvg-name="|TR| BEIN MOVIES PREMIER ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-premiere-qa-tr.png" group-title="|TR| SINEMA",|TR| BEIN MOVIES PREMIER ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170506
+#EXTINF:-1 tvg-ID="beinmoviespremiere2.tr" tvg-name="|TR| BEIN MOVIES PREMIERE 2 ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-premiere-2-qa-tr.png" group-title="|TR| SINEMA",|TR| BEIN MOVIES PREMIERE 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170507
+#EXTINF:-1 tvg-ID="beinmoviespremiere2.tr" tvg-name="|TR| BEINMOVIES PREMIER ᴴᴰ2" tvg-logo="http://138.199.27.237:8080/BEIN/BEINMOVIES.png" group-title="|TR| SINEMA",|TR| BEINMOVIES PREMIER ᴴᴰ2
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/27838
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BEIN MOVIES ACTION ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-action-qa-tr.png" group-title="|TR| SINEMA",|TR| BEIN MOVIES ACTION ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170504
+#EXTINF:-1 tvg-ID="beinmoviesaction2.tr" tvg-name="|TR| BEIN MOVIES ACTION 2 ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-action-2-qa-tr.png" group-title="|TR| SINEMA",|TR| BEIN MOVIES ACTION 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170505
+#EXTINF:-1 tvg-ID="beinmoviesstars.tr" tvg-name="|TR| BEIN MOVIES STARS ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-stars-qa-tr.png" group-title="|TR| SINEMA",|TR| BEIN MOVIES STARS ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170508
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| BEIN MOVIES FAMILY ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-family-qa-tr.png" group-title="|TR| SINEMA",|TR| BEIN MOVIES FAMILY ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170503
+#EXTINF:-1 tvg-ID="beinmoviesturk.tr" tvg-name="|TR| BEIN MOVIES TURK ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-turk-qa-tr.png" group-title="|TR| SINEMA",|TR| BEIN MOVIES TURK ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170509
+#EXTINF:-1 tvg-ID="beinmoviesturk.tr" tvg-name="|TR| BEIN MOVIE Turk ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEINMOVIES.png" group-title="|TR| SINEMA",|TR| BEIN MOVIE Turk ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/12361
+#EXTINF:-1 tvg-ID="beinseriescomedy.tr" tvg-name="|TR| BEIN MOVIES COMEDY ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEINMOVIES.png" group-title="|TR| SINEMA",|TR| BEIN MOVIES COMEDY ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/12360
+#EXTINF:-1 tvg-ID="moviesmartfestival.tr" tvg-name="|TR| BEIN MOVIES FESTIVAL ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEINMOVIES.png" group-title="|TR| SINEMA",|TR| BEIN MOVIES FESTIVAL ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/12359
+#EXTINF:-1 tvg-ID="beinseriesscifi.tr" tvg-name="|TR| BEIN SERIES SCFI ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/Bein-series.png" group-title="|TR| SINEMA",|TR| BEIN SERIES SCFI ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170512
+#EXTINF:-1 tvg-ID="beinseriesvice.tr" tvg-name="|TR|  BEIN SERIES VICE ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/Bein-series.png" group-title="|TR| SINEMA",|TR|  BEIN SERIES VICE ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170514
+#EXTINF:-1 tvg-ID="beinseriesdrama.tr" tvg-name="|TR| BEIN SERIES DRAMA ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/Bein-series.png" group-title="|TR| SINEMA",|TR| BEIN SERIES DRAMA ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170511
+#EXTINF:-1 tvg-ID="beinseriescomedy.tr" tvg-name="|TR| BEIN SERIES COMEDY ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/Bein-series.png" group-title="|TR| SINEMA",|TR| BEIN SERIES COMEDY ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170510
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  BEIN SERIES 1001 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/Bein-series.png" group-title="|TR| SINEMA",|TR|  BEIN SERIES 1001 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170513
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| EPIC DRAMA ᴴᴰ" tvg-logo="" group-title="|TR| SINEMA",|TR| EPIC DRAMA ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314500
+#EXTINF:-1 tvg-ID="moviesmartpremium.tr" tvg-name="|TR| MOVIESMART PREMIUM ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/VOD/logo/MOVIESMART-HD.jpg" group-title="|TR| SINEMA",|TR| MOVIESMART PREMIUM ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/12377
+#EXTINF:-1 tvg-ID="moviesmartpremium.tr" tvg-name="|TR| MOVIESMART PREMIUM ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/VOD/logo/MOVIESMART-HD.jpg" group-title="|TR| SINEMA",|TR| MOVIESMART PREMIUM ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/27830
+#EXTINF:-1 tvg-ID="moviesmartaction.tr" tvg-name="|TR| MOVIESMART ACTİON ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/VOD/logo/MOVIESMART-HD.jpg" group-title="|TR| SINEMA",|TR| MOVIESMART ACTİON ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/12371
+#EXTINF:-1 tvg-ID="moviesmartclassic.tr" tvg-name="|TR|  MOVİESMART CLASSİC ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-classic-tr.png" group-title="|TR| SINEMA",|TR|  MOVİESMART CLASSİC ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170515
+#EXTINF:-1 tvg-ID="moviesmartturk.tr" tvg-name="|TR| MOVIESMART TURK ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/VOD/logo/MOVIESMART-HD.jpg" group-title="|TR| SINEMA",|TR| MOVIESMART TURK ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/12378
+#EXTINF:-1 tvg-ID="moviesmartturk.tr" tvg-name="|TR| MOVİESMART TURK ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-turk-tr.png" group-title="|TR| SINEMA",|TR| MOVİESMART TURK ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170519
+#EXTINF:-1 tvg-ID="smartcocuk.tr" tvg-name="|TR| MOVIESMART COCUK ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-turk-tr.png" group-title="|TR| SINEMA",|TR| MOVIESMART COCUK ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170516
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  MOVIE CLASSIC ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/MOVIE%20CLASSIC.png" group-title="|TR| SINEMA",|TR|  MOVIE CLASSIC ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196849
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  MOVIE TÜRK ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/MOVIE%20T%c3%9cRK.jpg" group-title="|TR| SINEMA",|TR|  MOVIE TÜRK ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196850
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIES ACTION 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/MOVIESINEMAANIMASYON2HD.png" group-title="|TR| SINEMA",|TR| MOVIES ACTION 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/75750
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MOVIES ACTION ᴴᴰ" tvg-logo="http://i0.wp.com/clubedoaz.com.br/wp-content/uploads/2015/03/CINEBOX-LOGO.png?resize=748,191" group-title="|TR| SINEMA",|TR| MOVIES ACTION ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/75730
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  MOVIE PREMIUM 2 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/MOVIE%20PREMIUM%202.png" group-title="|TR| SINEMA",|TR|  MOVIE PREMIUM 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196824
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  MOVIE PREMIUM ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/MOVIE%20PREMIUM.png" group-title="|TR| SINEMA",|TR|  MOVIE PREMIUM ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196823
+#EXTINF:-1 tvg-ID="dizismartmax.tr" tvg-name="|TR| DIZI SMART MAX ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/D%c4%b0Z%c4%b0SMART%20MAX%20RAW.jpg" group-title="|TR| SINEMA",|TR| DIZI SMART MAX ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151777
+#EXTINF:-1 tvg-ID="dizismartmax.tr" tvg-name="|TR| DIZI SMART MAX ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/D%c4%b0Z%c4%b0SMART%20MAX%20RAW.jpg" group-title="|TR| SINEMA",|TR| DIZI SMART MAX ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151779
+#EXTINF:-1 tvg-ID="dizismartpremium.tr" tvg-name="|TR|   DIZI SMART PREMIUM ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/D%c4%b0Z%c4%b0SMART%20MAX%20RAW.jpg" group-title="|TR| SINEMA",|TR|   DIZI SMART PREMIUM ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151778
+#EXTINF:-1 tvg-ID="sinematvhd.tr" tvg-name="|TR|  SİNEMA TV ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/S%c4%b0NEMA.jpg" group-title="|TR| SINEMA",|TR|  SİNEMA TV ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196834
+#EXTINF:-1 tvg-ID="sinema2.tr" tvg-name="|TR|  SİNEMA 2 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/S%c4%b0NEMA.jpg" group-title="|TR| SINEMA",|TR|  SİNEMA 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196827
+#EXTINF:-1 tvg-ID="sinema1001hd.tr" tvg-name="|TR|  SİNEMA 1001 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/S%c4%b0NEMA%201001.jpg" group-title="|TR| SINEMA",|TR|  SİNEMA 1001 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196825
+#EXTINF:-1 tvg-ID="sinema1001hd.tr" tvg-name="|TR|  SİNEMA 1002 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/S%c4%b0NEMA.jpg" group-title="|TR| SINEMA",|TR|  SİNEMA 1002 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196826
+#EXTINF:-1 tvg-ID="sinemaaksiyonhd.tr" tvg-name="|TR|  SİNEMA AKSİYON ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/S%c4%b0NEMA.jpg" group-title="|TR| SINEMA",|TR|  SİNEMA AKSİYON ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196828
+#EXTINF:-1 tvg-ID="sinemaaksiyon2hd.tr" tvg-name="|TR|  SİNEMA AKSİYON 2 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/S%c4%b0NEMA.jpg" group-title="|TR| SINEMA",|TR|  SİNEMA AKSİYON 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196829
+#EXTINF:-1 tvg-ID="sinemaailehd.tr" tvg-name="|TR|  SİNEMA AİLE ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/S%c4%b0NEMA.jpg" group-title="|TR| SINEMA",|TR|  SİNEMA AİLE ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196830
+#EXTINF:-1 tvg-ID="sinemaaile2hd.tr" tvg-name="|TR|  SİNEMA AİLE 2 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/S%c4%b0NEMA.jpg" group-title="|TR| SINEMA",|TR|  SİNEMA AİLE 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196831
+#EXTINF:-1 tvg-ID="sinemakomedihd.tr" tvg-name="|TR|  SİNEMA KOMEDİ ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/S%c4%b0NEMA.jpg" group-title="|TR| SINEMA",|TR|  SİNEMA KOMEDİ ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196832
+#EXTINF:-1 tvg-ID="sinemakomedi2hd.tr" tvg-name="|TR|  SİNEMA KOMEDİ 2 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/S%c4%b0NEMA.jpg" group-title="|TR| SINEMA",|TR|  SİNEMA KOMEDİ 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196833
+#EXTINF:-1 tvg-ID="fxnetwork.tr" tvg-name="|TR|  FX ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5110.png" group-title="|TR| SINEMA",|TR|  FX ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196847
+#EXTINF:-1 tvg-ID="fxnetwork.tr" tvg-name="|TR|   FX ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5110.png" group-title="|TR| SINEMA",|TR|   FX ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151820
+#EXTINF:-1 tvg-ID="fxnetwork.tr" tvg-name="|TR|  FX ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5110.png" group-title="|TR| SINEMA",|TR|  FX ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10726
+#EXTINF:-1 tvg-ID="foxcrime.tr" tvg-name="|TR|  FOX CRIME ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/97/Foxcrimehd.png" group-title="|TR| SINEMA",|TR|  FOX CRIME ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151782
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  FOX CRIME ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/FOX%20CRIME%20HD%20RAW.png" group-title="|TR| SINEMA",|TR|  FOX CRIME ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196846
+#EXTINF:-1 tvg-ID="filmbox.tr" tvg-name="|TR|  FILMBOX ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/FILMBOX_HD.png" group-title="|TR| SINEMA",|TR|  FILMBOX ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151780
+#EXTINF:-1 tvg-ID="filmbox.tr" tvg-name="|TR|  FILMBOX ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/filmbox_central_eu.png" group-title="|TR| SINEMA",|TR|  FILMBOX ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196822
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING AVRUPA YAKASI TV" tvg-logo="" group-title="|TR| SINEMA",|TR| LIVING AVRUPA YAKASI TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314930
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING BIZIMKILER TV" tvg-logo="" group-title="|TR| SINEMA",|TR| LIVING BIZIMKILER TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314929
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING VIZYON 1" tvg-logo="" group-title="|TR| SINEMA",|TR| LIVING VIZYON 1
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314942
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING VIZYON 2" tvg-logo="" group-title="|TR| SINEMA",|TR| LIVING VIZYON 2
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314941
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING VIZYON 3" tvg-logo="" group-title="|TR| SINEMA",|TR| LIVING VIZYON 3
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314940
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING CINEMAX 1" tvg-logo="" group-title="|TR| SINEMA",|TR| LIVING CINEMAX 1
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314939
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING CINEMAX 2" tvg-logo="" group-title="|TR| SINEMA",|TR| LIVING CINEMAX 2
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314938
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING CINEMAX 3" tvg-logo="" group-title="|TR| SINEMA",|TR| LIVING CINEMAX 3
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314937
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING CINEMAX 4" tvg-logo="" group-title="|TR| SINEMA",|TR| LIVING CINEMAX 4
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314936
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING CINEMAX 5" tvg-logo="" group-title="|TR| SINEMA",|TR| LIVING CINEMAX 5
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314935
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING CINEMAX 6" tvg-logo="" group-title="|TR| SINEMA",|TR| LIVING CINEMAX 6
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314934
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING TURK" tvg-logo="" group-title="|TR| SINEMA",|TR| LIVING TURK
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314932
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING WESTERN" tvg-logo="" group-title="|TR| SINEMA",|TR| LIVING WESTERN
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314933
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING KEMAL SUNAL" tvg-logo="" group-title="|TR| SINEMA",|TR| LIVING KEMAL SUNAL
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314931
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| YESILCAM SINEMA" tvg-logo="https://www.rizedeyiz.com/Arsiv/Icerik/2011/07/12/Resim_1310480030.jpg" group-title="|TR| SINEMA",|TR| YESILCAM SINEMA
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151819
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DINAMIK SALON 1" tvg-logo="" group-title="|TR| SINEMA",|TR| DINAMIK SALON 1
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314928
+#EXTINF:-1 tvg-ID="beinboxoffice1.tr" tvg-name="|TR| BEiN BOX OFFİCE 1 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/Bein_box_office.png" group-title="|TR| SINEMA",|TR| BEiN BOX OFFİCE 1 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170520
+#EXTINF:-1 tvg-ID="beinboxoffice1.tr" tvg-name="|TR| BEIN BOX OFFICE 1" tvg-logo="http://138.199.27.237:8080/BEIN/BEINBOXOFFICE.png" group-title="|TR| SINEMA",|TR| BEIN BOX OFFICE 1
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10724
+#EXTINF:-1 tvg-ID="beinboxoffice2.tr" tvg-name="|TR| BEiN BOX OFFİCE 2 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/Bein_box_office.png" group-title="|TR| SINEMA",|TR| BEiN BOX OFFİCE 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170521
+#EXTINF:-1 tvg-ID="beinboxoffice3.tr" tvg-name="|TR| BEiN BOX OFFİCE 3 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/Bein_box_office.png" group-title="|TR| SINEMA",|TR| BEiN BOX OFFİCE 3 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170522
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  ANIMATION 1 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/animation.png" group-title="|TR| SINEMA",|TR|  ANIMATION 1 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151991
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  ANIMATION  2 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/animation.png" group-title="|TR| SINEMA",|TR|  ANIMATION  2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151992
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| KEMAL SUNAL TV" tvg-logo="http://103.161.34.238/dreamtv/tv/animation.png" group-title="|TR| SINEMA",|TR| KEMAL SUNAL TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151781
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|   TOM & JERRY" tvg-logo="http://103.161.34.238/dreamtv/tv/Tom-and-Jerry.png" group-title="|TR| SINEMA",|TR|   TOM & JERRY
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151997
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  DİZİ PREMIUM ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/D%c4%b0Z%c4%b0%20PREMIUM.jpg" group-title="|TR| SINEMA",|TR|  DİZİ PREMIUM ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196842
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  DİZİSMART MAX ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/D%c4%b0Z%c4%b0SMART%20MAX%20RAW.jpg" group-title="|TR| SINEMA",|TR|  DİZİSMART MAX ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196843
+#EXTINF:-1 tvg-ID="dizismartpremium.tr" tvg-name="|TR| DİZİ SMART PREMIUM ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/D%c4%b0Z%c4%b0SMART%20MAX%20RAW.jpg" group-title="|TR| SINEMA",|TR| DİZİ SMART PREMIUM ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151776
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX 007 JAMES BOND" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX 007 JAMES BOND
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201801
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX 13.CUMA" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX 13.CUMA
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201819
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX ALACAKARANLIK EFSANESI" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX ALACAKARANLIK EFSANESI
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201805
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX ALIEN VS PREDATOR" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX ALIEN VS PREDATOR
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201826
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX BATMAN TV" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX BATMAN TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201808
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX BRUCE LEE TV" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX BRUCE LEE TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201798
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX CILGIN DERSHANE" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX CILGIN DERSHANE
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201829
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX HARRY POTTER" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX HARRY POTTER
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201802
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX HOBBIT TV" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX HOBBIT TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201807
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX KARANLIKLAR ULKESI" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX KARANLIKLAR ULKESI
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201830
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX KARAYIP KORSANLARI" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX KARAYIP KORSANLARI
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201811
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX MAYMUNLAR CEHENEMI" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX MAYMUNLAR CEHENEMI
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201825
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX MUMYA" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX MUMYA
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201821
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX ORUMCEK ADAM" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX ORUMCEK ADAM
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201810
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX POLIS AKEDEMISI" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX POLIS AKEDEMISI
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201815
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX RAMBO" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX RAMBO
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201827
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX RECEP IVEDIK" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX RECEP IVEDIK
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201804
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX ROCKY BALBOA" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX ROCKY BALBOA
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201803
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX SON DURAK" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX SON DURAK
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201814
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX STAR TREK" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX STAR TREK
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201824
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX SUPERMAN TV" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX SUPERMAN TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201809
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX TERMINATOR TV" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX TERMINATOR TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201817
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX TESTERE SAW" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX TESTERE SAW
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201816
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX THE BOURNE" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX THE BOURNE
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201822
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX THE MATRİX" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX THE MATRİX
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201823
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX TRANSFORMERS" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX TRANSFORMERS
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201820
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX X-MEN TV" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX X-MEN TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201818
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX ZOR OLUM" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX ZOR OLUM
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201812
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX ÖLÜMCÜL DENEY" tvg-logo="" group-title="|TR| BOX OFFICE",|TR| DIZIAX ÖLÜMCÜL DENEY
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201806
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|    MAX Aksiyon ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|    MAX Aksiyon ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151783
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|   MAX 007 ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   MAX 007 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151793
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|   MAX Aksiyon 2 ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   MAX Aksiyon 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151785
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|   MAX GOLD ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   MAX GOLD ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151791
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|   MAX Hint Filimleri" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   MAX Hint Filimleri
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151794
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|   MAX Orjinal ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   MAX Orjinal ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151795
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|   MAX PLUS ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   MAX PLUS ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151792
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|   MAX Premier ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   MAX Premier ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151784
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|   MAX STAR WARS ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   MAX STAR WARS ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151796
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|   MAX TURK ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   MAX TURK ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151790
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|   MAX Vizyon 2 ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   MAX Vizyon 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151787
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|   MAX Vizyon 3 ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   MAX Vizyon 3 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151788
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|   MAX Vizyon 4 ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   MAX Vizyon 4 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151789
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|   MAX Vizyon ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   MAX Vizyon ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151786
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|   MAX Western ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   MAX Western ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151797
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| SINEMA AKSIYON ᴴᴰ" tvg-logo="https://lo1.in/trk/sina0.png" group-title="|TR| BOX OFFICE",|TR| SINEMA AKSIYON ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/201709
+#EXTINF:-1 tvg-ID="sinematvhd.tr" tvg-name="|TR|   SINEMA TV ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-tv-tr.png" group-title="|TR| BOX OFFICE",|TR|   SINEMA TV ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151771
+#EXTINF:-1 tvg-ID="sinema2hd.tr" tvg-name="|TR|   SINEMA TV 2 ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   SINEMA TV 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151766
+#EXTINF:-1 tvg-ID="sinemaaksiyonhd.tr" tvg-name="|TR|   SINEMA AKSIYON ᴴᴰ" tvg-logo="https://lo1.in/trk/sina0.png" group-title="|TR| BOX OFFICE",|TR|   SINEMA AKSIYON ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151763
+#EXTINF:-1 tvg-ID="sinema1001hd.tr" tvg-name="|TR|   SINEMA TV 1001 ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   SINEMA TV 1001 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151764
+#EXTINF:-1 tvg-ID="sinema1002.tr" tvg-name="|TR|   SINEMA TV 1002 ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   SINEMA TV 1002 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151765
+#EXTINF:-1 tvg-ID="sinemaaksiyon2hd.tr" tvg-name="|TR|   SINEMA TV ACTION 2 ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   SINEMA TV ACTION 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151767
+#EXTINF:-1 tvg-ID="sinemaaksiyonhd.tr" tvg-name="|TR|   SINEMA TV ACTION ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   SINEMA TV ACTION ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151768
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|   SINEMA TV AILE 2 ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   SINEMA TV AILE 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151770
+#EXTINF:-1 tvg-ID="sinemaailehd.tr" tvg-name="|TR|   SINEMA TV AILE ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   SINEMA TV AILE ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151769
+#EXTINF:-1 tvg-ID="sinemakomedihd.tr" tvg-name="|TR|   SINEMA TV KOMEDI ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   SINEMA TV KOMEDI ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151772
+#EXTINF:-1 tvg-ID="sinemayerli2.tr" tvg-name="|TR|   SINEMA TV YERLI 2 ᴴᴰ" tvg-logo="" group-title="|TR| BOX OFFICE",|TR|   SINEMA TV YERLI 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151775
+#EXTINF:-1 tvg-ID="sinema1001hd.tr" tvg-name="|TR| SINEMA TV 1001 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/SINEMATVHD.png" group-title="|TR| SINEMA",|TR| SINEMA TV 1001 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10767
+#EXTINF:-1 tvg-ID="sinema1002.tr" tvg-name="|TR| SINEMA TV 1002 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/SINEMATVHD.png" group-title="|TR| SINEMA",|TR| SINEMA TV 1002 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10769
+#EXTINF:-1 tvg-ID="sinemaailehd.tr" tvg-name="|TR| SINEMA TV AILE ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/SINEMATVHD.png" group-title="|TR| SINEMA",|TR| SINEMA TV AILE ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10705
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| SINEMAX COMEDY ᴴᴰ" tvg-logo="http://138.199.27.237:8080/USA/CINEMAXFHD.png" group-title="|TR| BOX OFFICE",|TR| SINEMAX COMEDY ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/12367
+#EXTINF:-1 tvg-ID="beiniz.tr" tvg-name="|TR| BEIN IZ ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/BEINIZHD.png" group-title="|TR| BELGESEL",|TR| BEIN IZ ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314487
+#EXTINF:-1 tvg-ID="beingurme.tr" tvg-name="|TR| BEIN GURME ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/BEINGÜRMEHD.png" group-title="|TR| BELGESEL",|TR| BEIN GURME ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314486
+#EXTINF:-1 tvg-ID="24kitchen.tr" tvg-name="|TR|  24 KITCHEN ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/24%20KITCHEN%20HD.png" group-title="|TR| BELGESEL",|TR|  24 KITCHEN ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196836
+#EXTINF:-1 tvg-ID="dmax.tr" tvg-name="|TR| DMAX ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/DMAXHDPLUS.png" group-title="|TR| BELGESEL",|TR| DMAX ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170683
+#EXTINF:-1 tvg-ID="historychannel.tr" tvg-name="|TR| HISTORY" tvg-logo="http://138.199.27.237:8080/TURKIYE/HISTORYCHANNELHD.png" group-title="|TR| BELGESEL",|TR| HISTORY
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10736
+#EXTINF:-1 tvg-ID="bbcearth.tr" tvg-name="|TR| BBC EARTH ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/BBCEARTHHD.png" group-title="|TR| BELGESEL",|TR| BBC EARTH ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314485
+#EXTINF:-1 tvg-ID="viasathistory.tr" tvg-name="|TR| VIASAT HISTORY ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/VIASAT-HISTORY-HD.png" group-title="|TR| BELGESEL",|TR| VIASAT HISTORY ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170684
+#EXTINF:-1 tvg-ID="viasathistory.tr" tvg-name="|TR|  VIASAT HISTORY ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/VIASAT%20HISTORY.png" group-title="|TR| BELGESEL",|TR|  VIASAT HISTORY ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196835
+#EXTINF:-1 tvg-ID="viasathistory.tr" tvg-name="|TR| HISTORY VIASAT" tvg-logo="http://138.199.27.237:8080/TURKIYE/HISTORYCHANNELHD.png" group-title="|TR| BELGESEL",|TR| HISTORY VIASAT
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10735
+#EXTINF:-1 tvg-ID="viasatnature.tr" tvg-name="|TR| VIASAT NATURE ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Viasat_Nature.png" group-title="|TR| BELGESEL",|TR| VIASAT NATURE ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314484
+#EXTINF:-1 tvg-ID="discoverychannel.tr" tvg-name="|TR| DISCOVERY" tvg-logo="http://138.199.27.237:8080/TURKIYE/DISCOVERYCHANNELHDPLUS.png" group-title="|TR| BELGESEL",|TR| DISCOVERY
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10740
+#EXTINF:-1 tvg-ID="discoveryscience.tr" tvg-name="|TR| DISCOVERY SCIENCE" tvg-logo="http://138.199.27.237:8080/CANADA/Discovery-Science.png" group-title="|TR| BELGESEL",|TR| DISCOVERY SCIENCE
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10738
+#EXTINF:-1 tvg-ID="discoverychannel.tr" tvg-name="|TR| DISCOVERY IDX ᴴᴰ" tvg-logo="https://e7.pngegg.com/pngimages/754/466/png-clipart-investigation-discovery-television-channel-id-xtra-discovery-channel-others-miscellaneous-television.png" group-title="|TR| BELGESEL",|TR| DISCOVERY IDX ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/185784
+#EXTINF:-1 tvg-ID="discoverychannel.tr" tvg-name="|TR|  DISCOVERY CHANNEL ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/DISCOVERY%20CHANNEL.png" group-title="|TR| BELGESEL",|TR|  DISCOVERY CHANNEL ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196839
+#EXTINF:-1 tvg-ID="discoveryscience.tr" tvg-name="|TR|  DISCOVERY SCIENCE ᴴᴰ" tvg-logo="http://138.199.27.237:8080/CANADA/Discovery-Science.png" group-title="|TR| BELGESEL",|TR|  DISCOVERY SCIENCE ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196841
+#EXTINF:-1 tvg-ID="natgeo.tr" tvg-name="|TR| NATIONAL GEO" tvg-logo="http://138.199.27.237:8080/0tv_logo/5079.png" group-title="|TR| BELGESEL",|TR| NATIONAL GEO
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10744
+#EXTINF:-1 tvg-ID="natgeo.tr" tvg-name="|TR|  NAT GEO ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="|TR| BELGESEL",|TR|  NAT GEO ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196851
+#EXTINF:-1 tvg-ID="natgeowild.tr" tvg-name="|TR| NATIONAL GEO WILD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png" group-title="|TR| BELGESEL",|TR| NATIONAL GEO WILD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10742
+#EXTINF:-1 tvg-ID="natgeowild.tr" tvg-name="|TR|  NAT GEO WILD ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png" group-title="|TR| BELGESEL",|TR|  NAT GEO WILD ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196852
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  LOVE NATURE ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/LOVE%20NATURE.png" group-title="|TR| BELGESEL",|TR|  LOVE NATURE ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196848
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| STINGRAY NATURESCAPE ᴴᴰ" tvg-logo="https://image.xumo.com/v1/channels/channel/99991252/600x337.webp?type=channelTile" group-title="|TR| BELGESEL",|TR| STINGRAY NATURESCAPE ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314475
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING BELGESEL" tvg-logo="" group-title="|TR| BELGESEL",|TR| LIVING BELGESEL
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314482
+#EXTINF:-1 tvg-ID="trtbelgesel.tr" tvg-name="|TR|  TRT BELGESEL ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-belgesel-tr.png" group-title="|TR| BELGESEL",|TR|  TRT BELGESEL ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196807
+#EXTINF:-1 tvg-ID="trtbelgesel.tr" tvg-name="|TR| TRT BELGESEL" tvg-logo="http://138.199.27.237:8080/TURKIYE/TRTBELGESELHDPLUS.png" group-title="|TR| BELGESEL",|TR| TRT BELGESEL
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10788
+#EXTINF:-1 tvg-ID="trtbelgesel.tr" tvg-name="|TR| TRT BELGESEL ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/TRTBELGESELHDPLUS.png" group-title="|TR| BELGESEL",|TR| TRT BELGESEL ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170685
+#EXTINF:-1 tvg-ID="davinci.tr" tvg-name="|TR|  DA VINCI LEARNING ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/DA%20VINCI%20LEARNING%20RAW.jpg" group-title="|TR| BELGESEL",|TR|  DA VINCI LEARNING ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196819
+#EXTINF:-1 tvg-ID="docubox.tr" tvg-name="|TR|  DOCUBOX ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/docu_box_hd.png" group-title="|TR| BELGESEL",|TR|  DOCUBOX ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196820
+#EXTINF:-1 tvg-ID="animalplanet.tr" tvg-name="|TR| ANIMAL PLANET TR" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ANIMALPLANET.png" group-title="|TR| BELGESEL",|TR| ANIMAL PLANET TR
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10741
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  OUTDOOR ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/OUTDOOR.jpg" group-title="|TR| BELGESEL",|TR|  OUTDOOR ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196855
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  NATURE ESCAPE ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/NATURE%20ESCAPE.png" group-title="|TR| BELGESEL",|TR|  NATURE ESCAPE ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196853
+#EXTINF:-1 tvg-ID="fastandfunbox" tvg-name="|TR| FAST&FUN BOX ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/FAST-FUN-HD.png" group-title="|TR| BELGESEL",|TR| FAST&FUN BOX ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314474
+#EXTINF:-1 tvg-ID="yabantv.tr" tvg-name="|TR| YABAN TV" tvg-logo="http://logodmtv.ddns.net/VOD/logo/yaban-tv.jpg" group-title="|TR| BELGESEL",|TR| YABAN TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10768
+#EXTINF:-1 tvg-ID="trtcocuk.tr" tvg-name="|TR| TRT COCUK" tvg-logo="http://138.199.27.237:8080/TURKIYE/TRT%c3%87OCUKHDPLUS.png" group-title="|TR| COCUK",|TR| TRT COCUK
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10787
+#EXTINF:-1 tvg-ID="boomerang.uk" tvg-name="|TR| BOOMERANG" tvg-logo="http://138.199.27.237:8080/0tv_logo/5070.png" group-title="|TR| COCUK",|TR| BOOMERANG
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10753
+#EXTINF:-1 tvg-ID="boomerang.tr" tvg-name="|TR|  BOOMERANG ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5070.png" group-title="|TR| COCUK",|TR|  BOOMERANG ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196837
+#EXTINF:-1 tvg-ID="trtcocuk.tr" tvg-name="|TR|  TRT COCUK ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/TRT%20COCUK%20RAW.png" group-title="|TR| COCUK",|TR|  TRT COCUK ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196808
+#EXTINF:-1 tvg-ID="nickjunior.uk" tvg-name="|TR| NICK JR" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png" group-title="|TR| COCUK",|TR| NICK JR
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10745
+#EXTINF:-1 tvg-ID="nicktoons.tr" tvg-name="|TR| NICKTOONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Nicktoons_2023_%28outline%29.png/640px-Nicktoons_2023_%28outline%29.png" group-title="|TR| COCUK",|TR| NICKTOONS
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314448
+#EXTINF:-1 tvg-ID="disneychannel.tr" tvg-name="|TR| DISNEY JUNIOR" tvg-logo="http://138.199.27.237:8080/0tv_logo/5074.png" group-title="|TR| COCUK",|TR| DISNEY JUNIOR
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10750
+#EXTINF:-1 tvg-ID="disneychannel.tr" tvg-name="|TR| DISNEY CH" tvg-logo="http://logodmtv.ddns.net/logo/5073.png" group-title="|TR| COCUK",|TR| DISNEY CH
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10751
+#EXTINF:-1 tvg-ID="nickelodeon.uk" tvg-name="|TR| NICKELODEON" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png" group-title="|TR| COCUK",|TR| NICKELODEON
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10746
+#EXTINF:-1 tvg-ID="cbeebies.tr" tvg-name="|TR| CBEEBIES ᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/BBCCBEEBIESHD.png" group-title="|TR| COCUK",|TR| CBEEBIES ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314449
+#EXTINF:-1 tvg-ID="minikacocuk.tr" tvg-name="|TR| MINIKA COCUK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png" group-title="|TR| COCUK",|TR| MINIKA COCUK
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10748
+#EXTINF:-1 tvg-ID="minikago.tr" tvg-name="|TR| MINIKA GO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Minika_go_old.png/revision/latest/scale-to-width-down/340?cb=20200518122421" group-title="|TR| COCUK",|TR| MINIKA GO
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10747
+#EXTINF:-1 tvg-ID="babytv.tr" tvg-name="|TR|  BABY TV ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/BABY%20TV.jpg" group-title="|TR| COCUK",|TR|  BABY TV ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196838
+#EXTINF:-1 tvg-ID="babytv.tr" tvg-name="|TR| BABY TV" tvg-logo="http://138.199.27.237:8080/USA/BABYTVHD.png" group-title="|TR| COCUK",|TR| BABY TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10754
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING NILOYA TV" tvg-logo="" group-title="|TR| COCUK",|TR| LIVING NILOYA TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314450
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING KELOGLAN TV" tvg-logo="" group-title="|TR| COCUK",|TR| LIVING KELOGLAN TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314451
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING HEIDI" tvg-logo="" group-title="|TR| COCUK",|TR| LIVING HEIDI
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314472
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING EGE ILE GAGA" tvg-logo="" group-title="|TR| COCUK",|TR| LIVING EGE ILE GAGA
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314471
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING POKEMON" tvg-logo="" group-title="|TR| COCUK",|TR| LIVING POKEMON
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314470
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING TRUE TV" tvg-logo="" group-title="|TR| COCUK",|TR| LIVING TRUE TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314469
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING HARIKA KANATLAR" tvg-logo="" group-title="|TR| COCUK",|TR| LIVING HARIKA KANATLAR
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314468
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING MASHA TV" tvg-logo="" group-title="|TR| COCUK",|TR| LIVING MASHA TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314467
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING BARBIE TV" tvg-logo="" group-title="|TR| COCUK",|TR| LIVING BARBIE TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314466
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING PEPPA PIG" tvg-logo="" group-title="|TR| COCUK",|TR| LIVING PEPPA PIG
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314465
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING KRAL SAKIR TV" tvg-logo="" group-title="|TR| COCUK",|TR| LIVING KRAL SAKIR TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314464
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING RAFADAN TAYFA" tvg-logo="" group-title="|TR| COCUK",|TR| LIVING RAFADAN TAYFA
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314463
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING PAW PATROL" tvg-logo="" group-title="|TR| COCUK",|TR| LIVING PAW PATROL
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314462
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING 44 CATS" tvg-logo="" group-title="|TR| COCUK",|TR| LIVING 44 CATS
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314461
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING ITFAIYECI SAM" tvg-logo="" group-title="|TR| COCUK",|TR| LIVING ITFAIYECI SAM
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314460
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING MR. BEAN" tvg-logo="" group-title="|TR| COCUK",|TR| LIVING MR. BEAN
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314459
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING CAILLOU TV" tvg-logo="" group-title="|TR| COCUK",|TR| LIVING CAILLOU TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314458
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING PIRTIK" tvg-logo="" group-title="|TR| COCUK",|TR| LIVING PIRTIK
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314457
+#EXTINF:-1 tvg-ID="smartcocuk.tr" tvg-name="|TR|  ÇOCUKSMART ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/%c3%87OCUKSMART.jpg" group-title="|TR| COCUK",|TR|  ÇOCUKSMART ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196860
+#EXTINF:-1 tvg-ID="disneychannel.tr" tvg-name="|TR| DISNEY XD" tvg-logo="http://138.199.27.237:8080/USA/DISNEYXD.png" group-title="|TR| COCUK",|TR| DISNEY XD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10749
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX COCUK ALVINNNN ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/DIZIAX.png" group-title="|TR| COCUK",|TR| DIZIAX COCUK ALVINNNN ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151978
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX COCUK HEIDI ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/DIZIAX.png" group-title="|TR| COCUK",|TR| DIZIAX COCUK HEIDI ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151979
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX COCUK JURASSIC WORLD ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/DIZIAX.png" group-title="|TR| COCUK",|TR| DIZIAX COCUK JURASSIC WORLD ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151982
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX COCUK KRAL SAKIR ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/DIZIAX.png" group-title="|TR| COCUK",|TR| DIZIAX COCUK KRAL SAKIR ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151989
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  DIZIAX COCUK SONIC BOOM ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/DIZIAX.png" group-title="|TR| COCUK",|TR|  DIZIAX COCUK SONIC BOOM ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151984
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX COCUK TRANSFORMERS ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/DIZIAX.png" group-title="|TR| COCUK",|TR| DIZIAX COCUK TRANSFORMERS ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151983
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DIZIAX COCUK WAKFU ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/DIZIAX.png" group-title="|TR| COCUK",|TR| DIZIAX COCUK WAKFU ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/151985
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING SHOW 1" tvg-logo="" group-title="|TR| EXTRA",|TR| LIVING SHOW 1
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314443
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING SHOW 2" tvg-logo="" group-title="|TR| EXTRA",|TR| LIVING SHOW 2
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314444
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING SHOW 3" tvg-logo="" group-title="|TR| EXTRA",|TR| LIVING SHOW 3
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314445
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING SHOW 4" tvg-logo="" group-title="|TR| EXTRA",|TR| LIVING SHOW 4
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314446
+#EXTINF:-1 tvg-ID="beinsportshaber.tr" tvg-name="|TR|  BEIN SPORTS HABER ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/beIN%20SPORTS%20HABER.webp" group-title="|TR| BIEN SPORTS",|TR|  BEIN SPORTS HABER ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196816
+#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="|TR| BEINSPORT 1 (ᵁᴴᴰ)" tvg-logo="http://138.199.27.237:8080/TURKIYE/BEINSPORTS.png" group-title="|TR| BIEN SPORTS",|TR| BEINSPORT 1 (ᵁᴴᴰ)
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10698
+#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="|TR| BEINSPORT 1 FHD" tvg-logo="http://138.199.27.237:8080/TURKIYE/BEINSPORTS.png" group-title="|TR| BIEN SPORTS",|TR| BEINSPORT 1 FHD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1162637
+#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="|TR| BEINSPORT 1 HD" tvg-logo="http://138.199.27.237:8080/TURKIYE/BEINSPORTS.png" group-title="|TR| BIEN SPORTS",|TR| BEINSPORT 1 HD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1162644
+#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="|TR| BEINSPORT 1 (ᴴᴰ)" tvg-logo="http://138.199.27.237:8080/TURKIYE/BEINSPORTS.png" group-title="|TR| BIEN SPORTS",|TR| BEINSPORT 1 (ᴴᴰ)
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10701
+#EXTINF:-1 tvg-ID="beinsports2.tr" tvg-name="|TR| BEINSPORT 2 (ᵁᴴᴰ)" tvg-logo="http://138.199.27.237:8080/TURKIYE/BEINSPORTS.png" group-title="|TR| BIEN SPORTS",|TR| BEINSPORT 2 (ᵁᴴᴰ)
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10697
+#EXTINF:-1 tvg-ID="beinsports2.tr" tvg-name="|TR| BEINSPORT 2 (ᴴᴰ)" tvg-logo="http://138.199.27.237:8080/TURKIYE/BEINSPORTS.png" group-title="|TR| BIEN SPORTS",|TR| BEINSPORT 2 (ᴴᴰ)
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10700
+#EXTINF:-1 tvg-ID="beinsports3.tr" tvg-name="|TR| BEINSPORT 3 (ᵁᴴᴰ)" tvg-logo="http://138.199.27.237:8080/TURKIYE/BEINSPORTS.png" group-title="|TR| BIEN SPORTS",|TR| BEINSPORT 3 (ᵁᴴᴰ)
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10696
+#EXTINF:-1 tvg-ID="beinsports3.tr" tvg-name="|TR| BEINSPORT 3 (ᴴᴰ)" tvg-logo="http://138.199.27.237:8080/TURKIYE/BEINSPORTS.png" group-title="|TR| BIEN SPORTS",|TR| BEINSPORT 3 (ᴴᴰ)
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10699
+#EXTINF:-1 tvg-ID="beinsports4.tr" tvg-name="|TR| BEINSPORT 4 (ᵁᴴᴰ)" tvg-logo="http://138.199.27.237:8080/TURKIYE/BEINSPORTS.png" group-title="|TR| BIEN SPORTS",|TR| BEINSPORT 4 (ᵁᴴᴰ)
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10695
+#EXTINF:-1 tvg-ID="beinsports4.tr" tvg-name="|TR| BEINSPORT 4 FHD" tvg-logo="http://138.199.27.237:8080/TURKIYE/BEINSPORTS.png" group-title="|TR| BIEN SPORTS",|TR| BEINSPORT 4 FHD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1162634
+#EXTINF:-1 tvg-ID="beinsports4.tr" tvg-name="|TR| BEINSPORT 4 HD" tvg-logo="http://138.199.27.237:8080/BEIN/BEINSPORT4720HD%c2%b2.png" group-title="|TR| BIEN SPORTS",|TR| BEINSPORT 4 HD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1162642
+#EXTINF:-1 tvg-ID="beinsports4.tr" tvg-name="|TR| BEINSPORT 4 (ᴴᴰ)" tvg-logo="http://138.199.27.237:8080/BEIN/BEINSPORT4720HD%c2%b2.png" group-title="|TR| BIEN SPORTS",|TR| BEINSPORT 4 (ᴴᴰ)
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/44446
+#EXTINF:-1 tvg-ID="beinsport5.tr" tvg-name="|TR| BEiNSPORTS 5 (ᵁᴴᴰ)" tvg-logo="http://138.199.27.237:8080/TURKIYE/BEINSPORTS.png" group-title="|TR| BIEN SPORTS",|TR| BEiNSPORTS 5 (ᵁᴴᴰ)
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314885
+#EXTINF:-1 tvg-ID="beinsport5.tr" tvg-name="|TR| BEiNSPORTS 5 FHD" tvg-logo="http://138.199.27.237:8080/TURKIYE/BEINSPORTS.png" group-title="|TR| BIEN SPORTS",|TR| BEiNSPORTS 5 FHD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1162638
+#EXTINF:-1 tvg-ID="beinsport5.tr" tvg-name="|TR| BEiNSPORTS 5 (ᴴᴰ)" tvg-logo="http://138.199.27.237:8080/TURKIYE/BEINSPORTS.png" group-title="|TR| BIEN SPORTS",|TR| BEiNSPORTS 5 (ᴴᴰ)
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314886
+#EXTINF:-1 tvg-ID="beinsportsmax1.tr" tvg-name="|TR| BEIN SPORT MAX  1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEINSPORTMAX.png" group-title="|TR| BIEN SPORTS",|TR| BEIN SPORT MAX  1 ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/44444
+#EXTINF:-1 tvg-ID="beinsportsmax1.tr" tvg-name="|TR| BEIN SPORTS MAX 1 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/beIN_SPORTS_MAX.png" group-title="|TR| BIEN SPORTS",|TR| BEIN SPORTS MAX 1 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196273
+#EXTINF:-1 tvg-ID="beinsportsmax1.tr" tvg-name="|TR| BEIN SPORTS MAX 1 FHD" tvg-logo="http://103.161.34.238/dreamtv/tv/beIN_SPORTS_MAX.png" group-title="|TR| BIEN SPORTS",|TR| BEIN SPORTS MAX 1 FHD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196272
+#EXTINF:-1 tvg-ID="beinsportsmax1.tr" tvg-name="|TR| BEIN SPORT MAX  1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEINSPORTMAX.png" group-title="|TR| BIEN SPORTS",|TR| BEIN SPORT MAX  1 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/44442
+#EXTINF:-1 tvg-ID="beinsportsmax2.tr" tvg-name="|TR| BEIN SPORT MAX  2 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEINSPORTMAX.png" group-title="|TR| BIEN SPORTS",|TR| BEIN SPORT MAX  2 ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/44445
+#EXTINF:-1 tvg-ID="beinsportsmax2.tr" tvg-name="|TR| BEIN SPORTS MAX 2 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/beIN_SPORTS_MAX.png" group-title="|TR| BIEN SPORTS",|TR| BEIN SPORTS MAX 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196275
+#EXTINF:-1 tvg-ID="beinsportsmax2.tr" tvg-name="|TR| BEIN SPORTS MAX 2 FHD" tvg-logo="http://103.161.34.238/dreamtv/tv/beIN_SPORTS_MAX.png" group-title="|TR| BIEN SPORTS",|TR| BEIN SPORTS MAX 2 FHD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196274
+#EXTINF:-1 tvg-ID="beinsportsmax2.tr" tvg-name="|TR| BEIN SPORT MAX  2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/BEINSPORTMAX.png" group-title="|TR| BIEN SPORTS",|TR| BEIN SPORT MAX  2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/44443
+#EXTINF:-1 tvg-ID="ssport.tr" tvg-name="|TR| S-SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="|TR| SPORT",|TR| S-SPORT
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10689
+#EXTINF:-1 tvg-ID="ssport.tr" tvg-name="|TR| S SPORT PLUS 1 ᵁᴴᴰ" tvg-logo="https://ssport.tv/assets/images/ssport-plus-logo-text-bottom.png" group-title="|TR| SPORT",|TR| S SPORT PLUS 1 ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314883
+#EXTINF:-1 tvg-ID="ssport2.tr" tvg-name="|TR| S SPORT PLUS 2 ᵁᴴᴰ" tvg-logo="https://ssport.tv/assets/images/ssport-plus-logo-text-bottom.png" group-title="|TR| SPORT",|TR| S SPORT PLUS 2 ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314881
+#EXTINF:-1 tvg-ID="ssport2.tr" tvg-name="|TR|  S SPORT2 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/S%20SPORT2.jpg" group-title="|TR| SPORT",|TR|  S SPORT2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196857
+#EXTINF:-1 tvg-ID="ssport.tr" tvg-name="|TR|  S SPORT ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/S%20SPORT.png" group-title="|TR| SPORT",|TR|  S SPORT ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196856
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| S SPORT+1 MAC SAATI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="|TR| SPORT",|TR| S SPORT+1 MAC SAATI
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170686
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| S SPORT+2 MAC SAATI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="|TR| SPORT",|TR| S SPORT+2 MAC SAATI
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170687
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| S SPORT+3 MAC SAATI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="|TR| SPORT",|TR| S SPORT+3 MAC SAATI
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170688
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| S SPORT+4 MAC SAATI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="|TR| SPORT",|TR| S SPORT+4 MAC SAATI
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170689
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| S Sport+5 Mac Saati" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="|TR| SPORT",|TR| S Sport+5 Mac Saati
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170690
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| EXXEN SPORT 1 ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="|TR| EXXEN SPORTS",|TR| EXXEN SPORT 1 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/157112
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| EXXEN SPORT 1 ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="|TR| EXXEN SPORTS",|TR| EXXEN SPORT 1 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/157111
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| EXXEN SPORT 2 ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="|TR| EXXEN SPORTS",|TR| EXXEN SPORT 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/157114
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| EXXEN SPORT 2 ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="|TR| EXXEN SPORTS",|TR| EXXEN SPORT 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/157113
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| EXXEN SPORT 3 ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="|TR| EXXEN SPORTS",|TR| EXXEN SPORT 3 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/157116
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| EXXEN SPORT 3 ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="|TR| EXXEN SPORTS",|TR| EXXEN SPORT 3 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/157115
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| EXXEN SPORT 4 ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="|TR| EXXEN SPORTS",|TR| EXXEN SPORT 4 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/157117
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| EXXEN SPORT 5 ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="|TR| EXXEN SPORTS",|TR| EXXEN SPORT 5 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/157118
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| EXXEN SPORT 6 ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="|TR| EXXEN SPORTS",|TR| EXXEN SPORT 6 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/157119
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| EXXEN SPORT 7 ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="|TR| EXXEN SPORTS",|TR| EXXEN SPORT 7 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/157120
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| EXXEN SPORT 8 ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="|TR| EXXEN SPORTS",|TR| EXXEN SPORT 8 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/157121
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| EXXEN SPORT 9 ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="|TR| EXXEN SPORTS",|TR| EXXEN SPORT 9 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/283468
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| EXXEN SPORT 10 ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="|TR| EXXEN SPORTS",|TR| EXXEN SPORT 10 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/283469
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| SPOR SMART ᵁᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Smart-spor_635084424044881793.png" group-title="|TR| SPORT",|TR| SPOR SMART ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170681
+#EXTINF:-1 tvg-ID="sporsmart.tr" tvg-name="|TR|  SPORSMART ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/smartsport1.jpg" group-title="|TR| SPORT",|TR|  SPORSMART ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196858
+#EXTINF:-1 tvg-ID="smartspor.tr" tvg-name="|TR| SMART SPOR 1" tvg-logo="http://138.199.27.237:8080/TURKIYE/SMARTSPOR.png" group-title="|TR| SPORT",|TR| SMART SPOR 1
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10688
+#EXTINF:-1 tvg-ID="sporsmart.tr" tvg-name="|TR|  SPORSMART 2 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SPORSMART%202.png" group-title="|TR| SPORT",|TR|  SPORSMART 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196859
+#EXTINF:-1 tvg-ID="" tvg-name="TABii SPOR FHD" tvg-logo="" group-title="|TR| TABII SPORTS",TABii SPOR FHD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1195377
+#EXTINF:-1 tvg-ID="" tvg-name="TABii SPOR HD" tvg-logo="" group-title="|TR| TABII SPORTS",TABii SPOR HD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1195376
+#EXTINF:-1 tvg-ID="" tvg-name="BEINCONNET CANLI MAC ʜᴅ -1" tvg-logo="" group-title="|TR| BIEN SPORTS",BEINCONNET CANLI MAC ʜᴅ -1
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1195387
+#EXTINF:-1 tvg-ID="" tvg-name="BEINCONNET CANLI MAC ʜᴅ -2" tvg-logo="" group-title="|TR| BIEN SPORTS",BEINCONNET CANLI MAC ʜᴅ -2
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1195388
+#EXTINF:-1 tvg-ID="" tvg-name="BEINCONNET CANLI MAC ʜᴅ -3" tvg-logo="" group-title="|TR| BIEN SPORTS",BEINCONNET CANLI MAC ʜᴅ -3
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1195389
+#EXTINF:-1 tvg-ID="" tvg-name="BEINCONNET CANLI MAC ʜᴅ -4" tvg-logo="" group-title="|TR| BIEN SPORTS",BEINCONNET CANLI MAC ʜᴅ -4
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1195390
+#EXTINF:-1 tvg-ID="" tvg-name="BEINCONNET CANLI MAC ʜᴅ -5" tvg-logo="" group-title="|TR| BIEN SPORTS",BEINCONNET CANLI MAC ʜᴅ -5
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1195391
+#EXTINF:-1 tvg-ID="" tvg-name="BEINCONNET CANLI MAC ʜᴅ -6" tvg-logo="" group-title="|TR| BIEN SPORTS",BEINCONNET CANLI MAC ʜᴅ -6
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1195392
+#EXTINF:-1 tvg-ID="" tvg-name="S Sport PLUS 1 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )" tvg-logo="" group-title="|TR| SPORT",S Sport PLUS 1 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1195378
+#EXTINF:-1 tvg-ID="" tvg-name="S Sport PLUS 3 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )" tvg-logo="" group-title="|TR| SPORT",S Sport PLUS 3 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1195379
+#EXTINF:-1 tvg-ID="" tvg-name="S Sport PLUS 4 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )" tvg-logo="" group-title="|TR| SPORT",S Sport PLUS 4 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1195380
+#EXTINF:-1 tvg-ID="" tvg-name="S Sport PLUS 5 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )" tvg-logo="" group-title="|TR| SPORT",S Sport PLUS 5 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1195381
+#EXTINF:-1 tvg-ID="" tvg-name="S Sport PLUS 6 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )" tvg-logo="" group-title="|TR| SPORT",S Sport PLUS 6 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1195382
+#EXTINF:-1 tvg-ID="" tvg-name="S Sport PLUS 7 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )" tvg-logo="" group-title="|TR| SPORT",S Sport PLUS 7 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1195383
+#EXTINF:-1 tvg-ID="" tvg-name="S Sport PLUS 8 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )" tvg-logo="" group-title="|TR| SPORT",S Sport PLUS 8 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1195384
+#EXTINF:-1 tvg-ID="" tvg-name="S Sport PLUS 9 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )" tvg-logo="" group-title="|TR| SPORT",S Sport PLUS 9 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1195385
+#EXTINF:-1 tvg-ID="" tvg-name="S Sport PLUS 10 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )" tvg-logo="" group-title="|TR| SPORT",S Sport PLUS 10 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1195386
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|TABii SPOR 1 FHD" tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="|TR| TABII SPORTS",|TR|TABii SPOR 1 FHD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1121579
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|TABii SPOR 1 HD" tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="|TR| TABII SPORTS",|TR|TABii SPOR 1 HD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1121578
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|TABii SPOR 2 FHD" tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="|TR| TABII SPORTS",|TR|TABii SPOR 2 FHD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1121577
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|TABii SPOR 2 HD" tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="|TR| TABII SPORTS",|TR|TABii SPOR 2 HD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1121576
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|TABii SPOR 3 FHD" tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="|TR| TABII SPORTS",|TR|TABii SPOR 3 FHD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1121575
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|TABii SPOR 3 HD" tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="|TR| TABII SPORTS",|TR|TABii SPOR 3 HD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1121574
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|TABii SPOR 4 FHD" tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="|TR| TABII SPORTS",|TR|TABii SPOR 4 FHD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1121573
+#EXTINF:-1 tvg-ID="" tvg-name="|TR||TR|TABii SPOR 4 HD" tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="|TR| TABII SPORTS",|TR||TR|TABii SPOR 4 HD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1121572
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|TABii SPOR 5 FHD" tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="|TR| TABII SPORTS",|TR|TABii SPOR 5 FHD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1121571
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|TABii SPOR 5 HD" tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="|TR| TABII SPORTS",|TR|TABii SPOR 5 HD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1121570
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|TABii SPOR 6 FHD" tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="|TR| TABII SPORTS",|TR|TABii SPOR 6 FHD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1121569
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|TABii SPOR 6 HD" tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="|TR| TABII SPORTS",|TR|TABii SPOR 6 HD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1121568
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|TABii SPOR 7 FHD" tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="|TR| TABII SPORTS",|TR|TABii SPOR 7 FHD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1121567
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|TABii SPOR 7 HD" tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="|TR| TABII SPORTS",|TR|TABii SPOR 7 HD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1121566
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|TABii SPOR 8 FHD" tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="|TR| TABII SPORTS",|TR|TABii SPOR 8 FHD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1121565
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|TABii SPOR 8 HD" tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="|TR| TABII SPORTS",|TR|TABii SPOR 8 HD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1121564
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|TABii SPOR 9 FHD" tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="|TR| TABII SPORTS",|TR|TABii SPOR 9 FHD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1121563
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|TABii SPOR 9 HD" tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="|TR| TABII SPORTS",|TR|TABii SPOR 9 HD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1121562
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|TABii SPOR 10 FHD" tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="|TR| TABII SPORTS",|TR|TABii SPOR 10 FHD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1121561
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|TABii SPOR 10 HD" tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="|TR| TABII SPORTS",|TR|TABii SPOR 10 HD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1121560
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  TIVIBU SPOR ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/db/TivibuSporLogo1.PNG" group-title="|TR| SPORT",|TR|  TIVIBU SPOR ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196862
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TIVIBUSPOR 1 ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/TVIBUSPOR.png" group-title="|TR| SPORT",|TR| TIVIBUSPOR 1 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/157125
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TiViBUSPOR 1 ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/TVIBUSPOR.png" group-title="|TR| SPORT",|TR| TiViBUSPOR 1 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/157122
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TiViBUSPOR 2 ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/TVIBUSPOR.png" group-title="|TR| SPORT",|TR| TiViBUSPOR 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/157123
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TiViBUSPOR 3 ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/TVIBUSPOR.png" group-title="|TR| SPORT",|TR| TiViBUSPOR 3 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/157124
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TIVIBU SPOR 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/T%c4%b0V%c4%b0BUSPORHDPLUS.png" group-title="|TR| SPORT",|TR| TIVIBU SPOR 1 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/54289
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TIVIBU SPOR 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/T%c4%b0V%c4%b0BUSPORHDPLUS.png" group-title="|TR| SPORT",|TR| TIVIBU SPOR 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/54287
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TIVIBU SPOR 3 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/T%c4%b0V%c4%b0BUSPORHDPLUS.png" group-title="|TR| SPORT",|TR| TIVIBU SPOR 3 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/54288
+#EXTINF:-1 tvg-ID="trtspor.tr" tvg-name="|TR| TRT SPOR" tvg-logo="http://138.199.27.237:8080/TURKIYE/TRTSPORHDPLUS.png" group-title="|TR| SPORT",|TR| TRT SPOR
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10783
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TRT SPOR ᵁᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_spor_tr.png" group-title="|TR| SPORT",|TR| TRT SPOR ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170679
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TRT SPOR YILDIZ ᵁᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/1920px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" group-title="|TR| SPORT",|TR| TRT SPOR YILDIZ ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170680
+#EXTINF:-1 tvg-ID="trtspor.tr" tvg-name="|TR|  TRT SPOR ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_spor_tr.png" group-title="|TR| SPORT",|TR|  TRT SPOR ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196810
+#EXTINF:-1 tvg-ID="trtsporıldız.tr" tvg-name="|TR|  TRT SPOR YILDIZ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/1920px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" group-title="|TR| SPORT",|TR|  TRT SPOR YILDIZ ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196815
+#EXTINF:-1 tvg-ID="trtspor3.tr" tvg-name="|TR| TRT 3 SPOR ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/fL17pH3gPhrwonE_fFBaiYG3pSCjs9N-sMWhd0kAu7UNixXHCBUfnbUchTKfDy4_tzU" group-title="|TR| SPORT",|TR| TRT 3 SPOR ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314888
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| A SPOR ᵁᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" group-title="|TR| SPORT",|TR| A SPOR ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170678
+#EXTINF:-1 tvg-ID="aspor.tr" tvg-name="|TR|  A SPOR ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/24%20RAW.jpg" group-title="|TR| SPORT",|TR|  A SPOR ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196803
+#EXTINF:-1 tvg-ID="aspor.tr" tvg-name="|TR| A SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" group-title="|TR| SPORT",|TR| A SPOR
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10694
+#EXTINF:-1 tvg-ID="tjk.tr" tvg-name="|TR| TJK TV" tvg-logo="" group-title="|TR| SPORT",|TR| TJK TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314884
+#EXTINF:-1 tvg-ID="nbatv.tr" tvg-name="|TR|  NBA TV ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="|TR| SPORT",|TR|  NBA TV ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196854
+#EXTINF:-1 tvg-ID="nbatv.tr" tvg-name="|TR| NBA TV" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="|TR| SPORT",|TR| NBA TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10690
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| EDGE SPORT ᴴᴰ" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKbE9jt1r6EI1Qd10DMbySWofCu8ZIEceJPVXp9cPA=s900-c-k-c0x00ffffff-no-rj" group-title="|TR| SPORT",|TR| EDGE SPORT ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314798
+#EXTINF:-1 tvg-ID="smartspor.tr" tvg-name="|TR| YEDEK | SMARTSPOR ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/SMARTSPOR.png" group-title="|TR| SPORT",|TR| YEDEK | SMARTSPOR ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314802
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| HAM | SMARTSPOR 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/SMARTSPOR.png" group-title="|TR| SPORT",|TR| HAM | SMARTSPOR 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314801
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| HAM | SARANSPORT 1" tvg-logo="http://138.199.27.237:8080/TURKIYE/SARANSPORTHD.png" group-title="|TR| SPORT",|TR| HAM | SARANSPORT 1
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314800
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| SARANSPORT 2 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/SARANSPORTHD.png" group-title="|TR| SPORT",|TR| SARANSPORT 2 ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314890
+#EXTINF:-1 tvg-ID="gstv.tr" tvg-name="|TR| GS TV ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/GSTV.png" group-title="|TR| SPORT",|TR| GS TV ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314797
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| SARANSPORT ᴴᴰ 2" tvg-logo="http://138.199.27.237:8080/TURKIYE/SARANSPORTHD.png" group-title="|TR| SPORT",|TR| SARANSPORT ᴴᴰ 2
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314889
+#EXTINF:-1 tvg-ID="fbtv.tr" tvg-name="|TR| FB TV ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/FBTVHDPLUS.png" group-title="|TR| SPORT",|TR| FB TV ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314796
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| CBC SPORT ᴴᴰ" tvg-logo="" group-title="|TR| SPORT",|TR| CBC SPORT ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314887
+#EXTINF:-1 tvg-ID="fightbox.tr" tvg-name="|TR|  FIGHTBOX ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/FIGHTBOX%20RAW.png" group-title="|TR| SPORT",|TR|  FIGHTBOX ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196821
+#EXTINF:-1 tvg-ID="ntv.tr" tvg-name="|TR| NTV SPOR" tvg-logo="http://138.199.27.237:8080/TURKIYE/NTVHDPLUS.png" group-title="|TR| SPORT",|TR| NTV SPOR
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10693
+#EXTINF:-1 tvg-ID="eurosport1.tr" tvg-name="|TR|  EUROSPORT 1 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/EUROSPORT-1.png" group-title="|TR| SPORT",|TR|  EUROSPORT 1 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196844
+#EXTINF:-1 tvg-ID="eurosport2.tr" tvg-name="|TR|  EUROSPORT 2 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/EUROSPORT%202.png" group-title="|TR| SPORT",|TR|  EUROSPORT 2 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196845
+#EXTINF:-1 tvg-ID="eurosport2.tr" tvg-name="|TR| Eurosport 2" tvg-logo="http://138.199.27.237:8080/UK/EUROSPORTS2.png" group-title="|TR| SPORT",|TR| Eurosport 2
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10691
+#EXTINF:-1 tvg-ID="kanalv.tr" tvg-name="|TR| KANAL V" tvg-logo="http://138.199.27.237:8080/TURKIYE/KANALVANTALYA.png" group-title="|TR| YEREL",|TR| KANAL V
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314389
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| KANAL 15" tvg-logo="" group-title="|TR| YEREL",|TR| KANAL 15
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314390
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| KANAL 3" tvg-logo="https://www.hrt.com.tr/wp-content/uploads/2022/02/HRT-LogoX400-1.png" group-title="|TR| YEREL",|TR| KANAL 3
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314391
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| HRT AKDENIZ" tvg-logo="https://www.hrt.com.tr/wp-content/uploads/2022/02/HRT-LogoX400-1.png" group-title="|TR| YEREL",|TR| HRT AKDENIZ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314392
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| ER TV" tvg-logo="" group-title="|TR| YEREL",|TR| ER TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314393
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DRT DENIZLI TV" tvg-logo="http://138.199.27.237:8080/TURKIYE/DRTDENIZLITV.png" group-title="|TR| YEREL",|TR| DRT DENIZLI TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314394
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| KANAL 23" tvg-logo="" group-title="|TR| YEREL",|TR| KANAL 23
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314395
+#EXTINF:-1 tvg-ID="kontv.tr" tvg-name="|TR| KON TV ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/KONTVKONYA.png" group-title="|TR| YEREL",|TR| KON TV ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314397
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| AKSU TV" tvg-logo="https://www.artidijitalmedya.com/image/400x400/cdn/channels/v1/logo_7.png?v=10" group-title="|TR| YEREL",|TR| AKSU TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314398
+#EXTINF:-1 tvg-ID="kanal26.tr" tvg-name="|TR| KANAL 26" tvg-logo="https://www.artidijitalmedya.com/image/400x400/cdn/channels/v1/logo_70.png?v=3" group-title="|TR| YEREL",|TR| KANAL 26
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314399
+#EXTINF:-1 tvg-ID="kanal33.tr" tvg-name="|TR| KANAL 33" tvg-logo="https://play-lh.googleusercontent.com/KXdlJPZuITDorVQu2uui3s-bwoErW42x3ob6YevtYcB-1UerPRuJPwIfyRG72UFoE5Y" group-title="|TR| YEREL",|TR| KANAL 33
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314400
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| KANAL 68" tvg-logo="http://138.199.27.237:8080/TURKIYE/Kanal.68.png" group-title="|TR| YEREL",|TR| KANAL 68
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314401
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| ES TV" tvg-logo="https://www.artidijitalmedya.com/image/400x400/cdn/channels/v1/logo_43.png?v=3" group-title="|TR| YEREL",|TR| ES TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314396
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| KANAL URFA" tvg-logo="http://138.199.27.237:8080/TURKIYE/KANALURFA.png" group-title="|TR| YEREL",|TR| KANAL URFA
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314402
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| KENT TURK" tvg-logo="http://138.199.27.237:8080/TURKIYE/kent-turk.png" group-title="|TR| YEREL",|TR| KENT TURK
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314403
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MAVI KARADENIZ" tvg-logo="http://138.199.27.237:8080/TURKIYE/MAVIKARADENIZ.png" group-title="|TR| YEREL",|TR| MAVI KARADENIZ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314404
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TV 52" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-52-tr.png" group-title="|TR| YEREL",|TR| TV 52
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/185791
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| PAMUKKALE TV" tvg-logo="http://138.199.27.237:8080/TURKIYE/PAMUKKALETV.png" group-title="|TR| YEREL",|TR| PAMUKKALE TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314405
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| KOZA TV" tvg-logo="http://138.199.27.237:8080/TURKIYE/KOZATVADANA.png" group-title="|TR| YEREL",|TR| KOZA TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314406
+#EXTINF:-1 tvg-ID="trthaber.tr" tvg-name="|TR| TRT HABER ᵁᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-haber-tr.png" group-title="|TR| HABER",|TR| TRT HABER ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170673
+#EXTINF:-1 tvg-ID="trthaber.tr" tvg-name="|TR|  TRT HABER ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-haber-tr.png" group-title="|TR| HABER",|TR|  TRT HABER ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196809
+#EXTINF:-1 tvg-ID="trthaber.tr" tvg-name="|TR| TRT HABER" tvg-logo="http://138.199.27.237:8080/TURKIYE/TRTHABERHDPLUS.png" group-title="|TR| HABER",|TR| TRT HABER
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10785
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  iLKE TV ʜᴅ" tvg-logo="" group-title="|TR| HABER",|TR|  iLKE TV ʜᴅ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1236190
+#EXTINF:-1 tvg-ID="ntv.tr" tvg-name="|TR| NTV HABER ᵁᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_tr.png" group-title="|TR| HABER",|TR| NTV HABER ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170676
+#EXTINF:-1 tvg-ID="ntv.tr" tvg-name="|TR|  NTV ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/NTV.png" group-title="|TR| HABER",|TR|  NTV ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196797
+#EXTINF:-1 tvg-ID="haberglobal.tr" tvg-name="|TR| NTV HABER" tvg-logo="http://138.199.27.237:8080/TURKIYE/NTVHDPLUS.png" group-title="|TR| HABER",|TR| NTV HABER
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10756
+#EXTINF:-1 tvg-ID="szc.tr" tvg-name="|TR| SÖZCÜ SZC TV" tvg-logo="http://138.199.27.237:8080/TURKIYE/szctv.png" group-title="|TR| HABER",|TR| SÖZCÜ SZC TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314430
+#EXTINF:-1 tvg-ID="cnnturk.tr" tvg-name="|TR| CNN TÜRK ᵁᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png" group-title="|TR| HABER",|TR| CNN TÜRK ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170672
+#EXTINF:-1 tvg-ID="cnnturk.tr" tvg-name="|TR|  CNN TÜRK ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png" group-title="|TR| HABER",|TR|  CNN TÜRK ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196798
+#EXTINF:-1 tvg-ID="cnnturk.tr" tvg-name="|TR| CNN TURK" tvg-logo="http://138.199.27.237:8080/TURKIYE/CNNTURKHDPLUS.png" group-title="|TR| HABER",|TR| CNN TURK
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10777
+#EXTINF:-1 tvg-ID="haberglobal.tr" tvg-name="|TR| HABER GLOBAL ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/HABERTURKHDPLUS.png" group-title="|TR| HABER",|TR| HABER GLOBAL ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314417
+#EXTINF:-1 tvg-ID="tgrthaber.tr" tvg-name="|TR| TGRT HABER" tvg-logo="http://138.199.27.237:8080/TURKIYE/TGRTHABER.png" group-title="|TR| HABER",|TR| TGRT HABER
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10755
+#EXTINF:-1 tvg-ID="tgrthaber.tr" tvg-name="|TR| TGRT HABER ᵁᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png" group-title="|TR| HABER",|TR| TGRT HABER ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170677
+#EXTINF:-1 tvg-ID="haberturk.tr" tvg-name="|TR|  HABERTURK ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/HABERTURK.jpg" group-title="|TR| HABER",|TR|  HABERTURK ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196799
+#EXTINF:-1 tvg-ID="haberturk.tr" tvg-name="|TR| HABER TURK ᵁᴴᴰ" tvg-logo="http://iptvtelekom.com/newpicon/haberturk.png" group-title="|TR| HABER",|TR| HABER TURK ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170675
+#EXTINF:-1 tvg-ID="haberturk.tr" tvg-name="|TR| HABERTURK" tvg-logo="http://138.199.27.237:8080/TURKIYE/HABERTURKHDPLUS.png" group-title="|TR| HABER",|TR| HABERTURK
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10780
+#EXTINF:-1 tvg-ID="ahaber.tr" tvg-name="|TR|  A HABER ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/A%20HABER%20RAW.jpg" group-title="|TR| HABER",|TR|  A HABER ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196800
+#EXTINF:-1 tvg-ID="ahaber.tr" tvg-name="|TR| A HABER" tvg-logo="http://138.199.27.237:8080/TURKIYE/24HABERHDPLUS.png" group-title="|TR| HABER",|TR| A HABER
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10791
+#EXTINF:-1 tvg-ID="ahaber.tr" tvg-name="|TR| A HABER ᵁᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a_haber_tr.png" group-title="|TR| HABER",|TR| A HABER ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170671
+#EXTINF:-1 tvg-ID="tv100.tr" tvg-name="|TR| TV 100 ᵁᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-100-tr.png" group-title="|TR| HABER",|TR| TV 100 ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170667
+#EXTINF:-1 tvg-ID="24.tr" tvg-name="|TR| 24 TV" tvg-logo="http://138.199.27.237:8080/TURKIYE/24HABERHDPLUS.png" group-title="|TR| HABER",|TR| 24 TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10760
+#EXTINF:-1 tvg-ID="24.tr" tvg-name="|TR|  24 ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/24%20RAW.jpg" group-title="|TR| HABER",|TR|  24 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196804
+#EXTINF:-1 tvg-ID="akit.tr" tvg-name="|TR| AKIT TV ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/AKITTV.png" group-title="|TR| HABER",|TR| AKIT TV ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314418
+#EXTINF:-1 tvg-ID="tvnet.tr" tvg-name="|TR| TVNET" tvg-logo="http://138.199.27.237:8080/TURKIYE/TVNETHDPLUS.png" group-title="|TR| HABER",|TR| TVNET
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10771
+#EXTINF:-1 tvg-ID="ulketv.tr" tvg-name="|TR| ULKE TV" tvg-logo="https://cdn.kanal7.com/ulketv/wp-content/themes/ulketv/images/ulke-tv-share.jpg" group-title="|TR| HABER",|TR| ULKE TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10770
+#EXTINF:-1 tvg-ID="halk.tr" tvg-name="|TR| HALK TV ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/HALKTV.png" group-title="|TR| HABER",|TR| HALK TV ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314419
+#EXTINF:-1 tvg-ID="tele1.tr" tvg-name="|TR| TELE 1 ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/iiUKEe14vqpHqPbsiQbB2rC5QQ_WaXvLE7RDtctMONPbgG-cNM7i1qjMJMXoBpYihGdb" group-title="|TR| HABER",|TR| TELE 1 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314421
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MEDYA HABER" tvg-logo="http://138.199.27.237:8080/TURKIYE/HABERTURKHDPLUS.png" group-title="|TR| HABER",|TR| MEDYA HABER
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314429
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  EKOL TV ʜᴅ FHD" tvg-logo="" group-title="|TR| HABER",|TR|  EKOL TV ʜᴅ FHD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165404
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  EKOL TV ʜᴅ HD" tvg-logo="" group-title="|TR| HABER",|TR|  EKOL TV ʜᴅ HD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165405
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  HABERTURK ʜᴅ FHD" tvg-logo="" group-title="|TR| HABER",|TR|  HABERTURK ʜᴅ FHD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165406
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  HABERTURK ʜᴅ HD" tvg-logo="" group-title="|TR| HABER",|TR|  HABERTURK ʜᴅ HD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165407
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  TV 100 ʜᴅ FHD" tvg-logo="" group-title="|TR| HABER",|TR|  TV 100 ʜᴅ FHD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165402
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  TV 100 ʜᴅ HD" tvg-logo="" group-title="|TR| HABER",|TR|  TV 100 ʜᴅ HD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165403
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| CAN TV HD" tvg-logo="https://logowik.com/content/uploads/images/cantv-old6566.logowik.com.webp" group-title="|TR| HABER",|TR| CAN TV HD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/865815
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| YOL TV" tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2018/06/YOL-TV.jpg" group-title="|TR| HABER",|TR| YOL TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/185786
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| ARTI TV ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/ARTITV.png" group-title="|TR| HABER",|TR| ARTI TV ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/185785
+#EXTINF:-1 tvg-ID="krt.tr" tvg-name="|TR| KRT ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/KRT_TV_logosu.png" group-title="|TR| HABER",|TR| KRT ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314422
+#EXTINF:-1 tvg-ID="krt.tr" tvg-name="|TR| KRT ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/KRT_TV_logosu.png" group-title="|TR| HABER",|TR| KRT ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314423
+#EXTINF:-1 tvg-ID="flashhaber.tr" tvg-name="|TR| FLASHTV HABBER ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/FLASHTV.png" group-title="|TR| HABER",|TR| FLASHTV HABBER ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314428
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TİVİ 6 ᴴᴰ" tvg-logo="" group-title="|TR| HABER",|TR| TİVİ 6 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314425
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| ON4 TV ᴴᴰ" tvg-logo="" group-title="|TR| HABER",|TR| ON4 TV ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314427
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| UZAY HABER" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/uzay_haber_tr.png" group-title="|TR| HABER",|TR| UZAY HABER
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314424
+#EXTINF:-1 tvg-ID="bloomberght.tr" tvg-name="|TR| BLOOMBERG HT ᵁᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bloomberg-ht-us-tr.png" group-title="|TR| HABER",|TR| BLOOMBERG HT ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170674
+#EXTINF:-1 tvg-ID="bloomberght.tr" tvg-name="|TR|  BLOOMBERGHT ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/BLOOMBERGHT%20RAW.jpg" group-title="|TR| HABER",|TR|  BLOOMBERGHT ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196806
+#EXTINF:-1 tvg-ID="bloomberght.tr" tvg-name="|TR| BLOOMBERG" tvg-logo="http://138.199.27.237:8080/USA/BLOOMBERG.png" group-title="|TR| HABER",|TR| BLOOMBERG
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10778
+#EXTINF:-1 tvg-ID="apara.tr" tvg-name="|TR|  A PARA ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/24%20RAW.jpg" group-title="|TR| HABER",|TR|  A PARA ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196802
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| EKOTURK ᴴᴰ" tvg-logo="" group-title="|TR| HABER",|TR| EKOTURK ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314426
+#EXTINF:-1 tvg-ID="trtworld.tr" tvg-name="|TR| TRT WORLD ᵁᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_world_tr.png" group-title="|TR| HABER",|TR| TRT WORLD ᵁᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/170670
+#EXTINF:-1 tvg-ID="trtworld.tr" tvg-name="|TR|  TRT WORLD ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_world_tr.png" group-title="|TR| HABER",|TR|  TRT WORLD ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196811
+#EXTINF:-1 tvg-ID="trtworld.tr" tvg-name="|TR| TRT WORLD" tvg-logo="http://138.199.27.237:8080/TURKIYE/TRTWORLDHDPLUS.png" group-title="|TR| HABER",|TR| TRT WORLD
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10782
+#EXTINF:-1 tvg-ID="anews.tr" tvg-name="|TR| A NEWS ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a_news_tr.png" group-title="|TR| HABER",|TR| A NEWS ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/185788
+#EXTINF:-1 tvg-ID="anews.tr" tvg-name="|TR|  A NEWS ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/A%20NEWS%20RAW.png" group-title="|TR| HABER",|TR|  A NEWS ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196801
+#EXTINF:-1 tvg-ID="trtdiyanet.tr" tvg-name="|TR| TRT DIYANET" tvg-logo="http://138.199.27.237:8080/TURKIYE/TRTDIYANET.png" group-title="|TR| DIN",|TR| TRT DIYANET
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10786
+#EXTINF:-1 tvg-ID="vav.tr" tvg-name="|TR| VAV TV ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/tVThldKyLuL-h9PkFiGeOFKfPKc9wm9x9-3JnFTpO1UobXRgM6ly2LM7RAjs0NrW9p2i=s150-rw" group-title="|TR| DIN",|TR| VAV TV ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314437
+#EXTINF:-1 tvg-ID="" tvg-name="|TR|  SEMERKAND ᴴᴰ" tvg-logo="http://103.161.34.238/dreamtv/tv/SEMERKAND.jpg" group-title="|TR| DIN",|TR|  SEMERKAND ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196861
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LALEGUL TV" tvg-logo="" group-title="|TR| DIN",|TR| LALEGUL TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/185789
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| FM TV ᴴᴰ" tvg-logo="" group-title="|TR| DIN",|TR| FM TV ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314431
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| KUDUS TV" tvg-logo="" group-title="|TR| DIN",|TR| KUDUS TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314432
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| REHBER TV" tvg-logo="" group-title="|TR| DIN",|TR| REHBER TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314433
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| DOST TV" tvg-logo="http://138.199.27.237:8080/TURKIYE/DOSTTV.png" group-title="|TR| DIN",|TR| DOST TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314434
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| KABE TV" tvg-logo="http://138.199.27.237:8080/TURKIYE/KABETV.png" group-title="|TR| DIN",|TR| KABE TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314435
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| MEDINE TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSYy-OpoQM27uQJDMXxHW2GCzce6AiFnbWr6uKP3Q=s900-c-k-c0x00ffffff-no-rj" group-title="|TR| DIN",|TR| MEDINE TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314438
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| VUSLAT TV" tvg-logo="https://i.pinimg.com/originals/ac/a7/81/aca7811638a426865aa8f875ad3ab459.png" group-title="|TR| DIN",|TR| VUSLAT TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314436
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| VUSLAT TV" tvg-logo="https://i.pinimg.com/originals/ac/a7/81/aca7811638a426865aa8f875ad3ab459.png" group-title="|TR| DIN",|TR| VUSLAT TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314440
+#EXTINF:-1 tvg-ID="meltemtv.tr" tvg-name="|TR| MELTEM TV" tvg-logo="http://138.199.27.237:8080/TURKIYE/MELTEMTV.png" group-title="|TR| DIN",|TR| MELTEM TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314439
+#EXTINF:-1 tvg-ID="" tvg-name="NUMBERONE FM TURK" tvg-logo="" group-title="|TR| RADIO",NUMBERONE FM TURK
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314374
+#EXTINF:-1 tvg-ID="" tvg-name="NUMBERONE FM" tvg-logo="" group-title="|TR| RADIO",NUMBERONE FM
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314375
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING MUSIC ᴴᴰ" tvg-logo="" group-title="|TR| MUZIK",|TR| LIVING MUSIC ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314387
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| LIVING SOMINE" tvg-logo="" group-title="|TR| MUZIK",|TR| LIVING SOMINE
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314388
+#EXTINF:-1 tvg-ID="kralpop.tr" tvg-name="|TR| KRAL TV ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/KRALTV.png" group-title="|TR| MUZIK",|TR| KRAL TV ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314386
+#EXTINF:-1 tvg-ID="kralpop.tr" tvg-name="|TR| KRALPOP ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/KRALPOP.png" group-title="|TR| MUZIK",|TR| KRALPOP ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314385
+#EXTINF:-1 tvg-ID="kralpop.tr" tvg-name="|TR| KRALPOP ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/KRALPOP.png" group-title="|TR| MUZIK",|TR| KRALPOP ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314376
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| NR1 TURK ᴴᴰ" tvg-logo="" group-title="|TR| MUZIK",|TR| NR1 TURK ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314377
+#EXTINF:-1 tvg-ID="dreamturk.tr" tvg-name="|TR| DREAM TURK ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/DREAMTÜRK.png" group-title="|TR| MUZIK",|TR| DREAM TURK ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314378
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| NR1 ᴴᴰ" tvg-logo="" group-title="|TR| MUZIK",|TR| NR1 ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314379
+#EXTINF:-1 tvg-ID="powerturk.tr" tvg-name="|TR| POWERTURK" tvg-logo="http://138.199.27.237:8080/TURKIYE/POWERTURKHDPLUS.png" group-title="|TR| MUZIK",|TR| POWERTURK
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10728
+#EXTINF:-1 tvg-ID="powertv.tr" tvg-name="|TR| POWER TV ᴴᴰ" tvg-logo="http://138.199.27.237:8080/TURKIYE/POWERHDPLUS.png" group-title="|TR| MUZIK",|TR| POWER TV ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314380
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| VATAN TV" tvg-logo="http://138.199.27.237:8080/TURKIYE/VATANTV.png" group-title="|TR| MUZIK",|TR| VATAN TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314382
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| ANADOLU DERNEK" tvg-logo="" group-title="|TR| MUZIK",|TR| ANADOLU DERNEK
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314383
+#EXTINF:-1 tvg-ID="trtmuzik.tr" tvg-name="|TR| TRT MUZIK" tvg-logo="http://138.199.27.237:8080/TURKIYE/TRTMUZIKHDPLUS.png" group-title="|TR| MUZIK",|TR| TRT MUZIK
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/10784
+#EXTINF:-1 tvg-ID="trtmuzik.tr" tvg-name="|TR|  TRT MUZIK ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/1920px-TRT_M%C3%BCzik_logo.svg.png" group-title="|TR| MUZIK",|TR|  TRT MUZIK ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/196813
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| TEMPO tv" tvg-logo="" group-title="|TR| MUZIK",|TR| TEMPO tv
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/314384
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| Al Turkmenia TV" tvg-logo="" group-title="|TR| ULUSAL",|TR| Al Turkmenia TV
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/280414
+#EXTINF:-1 tvg-ID="" tvg-name="|TR| Turkmeneli TV ᴴᴰ" tvg-logo="" group-title="|TR| ULUSAL",|TR| Turkmeneli TV ᴴᴰ
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/280417
