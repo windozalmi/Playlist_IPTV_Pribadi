@@ -456,14 +456,6 @@ http://103.179.182.117:6768/hls/66/66.m3u8
 #EXTVLCOPT:http-reconnect=true
 http://103.179.182.117:6768/hls/88/88.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/champions3.jpg?raw=true" group-title="SPORTS",CHAMPIONS TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-##
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/champions5.jpg?raw=true" group-title="SPORTS",CHAMPIONS TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXT-X-TARGETDURATION:2
