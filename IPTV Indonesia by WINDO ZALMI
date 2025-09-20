@@ -197,6 +197,13 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="MaduTV.id" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="TV Lokal Campur",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="MUI TV.id" tvg-name="MUI TV.id" tvg-logo="https://github.com/mimipipi22/logo/blob/main/religion/muitv.jpg?raw=true" group-title="RELIGION",MUITV
+https://mui.siar.us/mui/live/playlist.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd
+http://103.179.182.117:6768/hls/79/79.m3u8
+
 
 
 ===============TV Premium Campur=================
@@ -472,6 +479,21 @@ http://103.179.182.117:6768/hls/21/21.m3u8
 #EXTVLCOPT:http-reconnect=true
 http://103.179.182.117:6768/hls/94/94.m3u8
 
+#EXTINF:-1 tvg-id="VOLITV.ID" tvg-name="VOLI TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/volitv.jpg?raw=true" group-title="SPORTS",VOLI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/2/2.m3u8
+
+#EXTINF:-1 tvg-id="tvri.sport.id" tvg-name="tvri sport" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/tvrisport.jpg?raw=true" group-title="SPORTS",TVRI SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.179.182.117:6768/hls/49/49.m3u8
 
 
 
