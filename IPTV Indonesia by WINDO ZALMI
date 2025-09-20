@@ -48,12 +48,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 20].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/220px-RCTI_logo_2015.svg.png" group-title="TV Nasional (by: WINDO ZALMI)",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/tv/rcti
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-id="MNCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png" group-title="TV Nasional (by: WINDO ZALMI)",MNCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/tv/mnctv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -65,7 +65,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1920px-GTV_%282017%29.svg.png" group-title="TV Nasional (by: WINDO ZALMI)",Global TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/tv/gtv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/200px-TvOne_2023.svg.png" group-title="TV Nasional (by: WINDO ZALMI)",TV One
@@ -92,7 +92,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b
 
 #EXTINF:-1 tvg-id="iNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/1920px-INews.svg.png" group-title="TV Nasional (by: WINDO ZALMI)",iNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/tv/inews
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 tvg-id="29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/500px-Logo_GarudaTV_Primer_Flat_2025.svg.png" group-title="TV Nasional (by: WINDO ZALMI)",GARUDA TV
