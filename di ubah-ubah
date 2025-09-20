@@ -1,2 +1,14 @@
 #EXTM3U
 
+#EXTINF:0 tvg-country="ID"
+tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e
+0ef4.png" group-title="MITV",RCTI 1
+http://xtv.ooo:8080/3212571066/abc123/351023
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?
+deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="MITV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-
+07/c663544b47ae275f4dd77540e62e0ef4.png",RCTI 2
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
