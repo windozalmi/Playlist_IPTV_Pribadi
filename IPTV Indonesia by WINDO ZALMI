@@ -202,7 +202,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
 
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Viasat_Sport_2.png/250px-Viasat_Sport_2.png",SUPERSPORT 2 (ALB) 
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-super-sport-2-692.png",SUPERSPORT 2 (ALB) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 
