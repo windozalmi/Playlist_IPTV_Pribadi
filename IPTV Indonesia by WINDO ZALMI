@@ -209,6 +209,6 @@ https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd
 
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-2-al.png",SUPERSPORT 2 (ALB) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 
