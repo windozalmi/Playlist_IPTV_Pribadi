@@ -198,6 +198,9 @@ https://why.biz.id/Iptv/oxygen.php?id=oxygentv
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1120365025.m3u8
 https://cdnbal1.indihometv.com/atm/DASH/mqtv/mqtv-avc1_2500000=7-3277707030000000.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://id.wikipedia.org/wiki/Berkas:Rodja_TV.png" group-title="RELIGION",RodjaTV
+https://rodjatv.com/rodjatv/live.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2b87b73266741bc9e82b6296f732cd6:acc999bccde4bcdb93a00c5058a2def5
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
