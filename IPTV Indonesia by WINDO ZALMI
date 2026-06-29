@@ -179,6 +179,12 @@ https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
 #EXTINF:-1 tvg-id="auto.vtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" group-title="Kids Channel",VTV
 https://flv.intechmedia.net/live/ch107.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="auto.lingkar.tv" group-title="Local Channels" tvg-logo="https://lingkartv.com/assets/img/logo-square.png",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/500px-Logo_GarudaTV_Primer_Flat_2025.svg.png" group-title="INDONESIA TV",GARUDA TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
