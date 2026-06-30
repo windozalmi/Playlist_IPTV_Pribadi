@@ -283,8 +283,7 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 #EXTINF:-1 tvg-id="auto.caze.tv.br" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="WorldCup 2026",Caze TV BR
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-id="auto.caze.tv.br" tvg-logo="https://static-src.vocagame.com/BisnisVocagame/folaplay-e114-original.jpg" group-title="WorldCup 2026",Folaplay
-https://www.youtube.com/watch?v=oAu7CzRmXJU
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782799684/ei/4whDasf9PMLOssUPxoXRcA/ip/36.81.67.8/id/oAu7CzRmXJU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/id/ss/1/ssa/1/siu/1/bui/ARmQxEWZhYTb6e9XLDgGjXTSVPHY8gOTy0rpSpe03FjGQPv3zyRiBjRVL0b8M5PjjvNF0wczYw/spc/SQ-umrf-aGJQ_CkjHxCu1ibMniCMYjoJ08-evaEGZhvpz9KnvflDOZI/vprv/1/go/1/ns/MCut8u9X1iZA6oy7_L2J6RcW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681/dover/11/n/geYQYOghf9_8zPVf_a/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAJCQs72_1QpDwtN8Qe92wnfwBMPEozWzHZ1FpVgWLVPoAiBeCUjYM37gj97hOlhxfvY8aGU5svun9g5NazFhWq_woA%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="auto.caze.tv.br" tvg-logo="https://folaplay.com/static/img/longLogo.8049625.png" group-title="WorldCup 2026",Folaplay
+https://rr5---sn-2uuxa3vh-2qbe.googlevideo.com/videoplayback?
 
 
