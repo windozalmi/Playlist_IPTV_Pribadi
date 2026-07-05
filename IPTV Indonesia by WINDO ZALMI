@@ -178,9 +178,6 @@ EXTVLCOPT:http-referrer=https://m.visionplus.id
 #EXTINF:-1 tvg-id="Moji" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png" group-title="Indonesia Channels", MOJI TV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd
 
-#EXTINF:-1 tvg-id="PadangTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b3/Logo_PadangTV.png/250px-Logo_PadangTV.png" group-title="Local Channels",Padang TV
-http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
-
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TVRI_JAKARTA_2023.svg/330px-TVRI_JAKARTA_2023.svg.png" group-title="Indonesia Channels",TVRI NASIONAL
