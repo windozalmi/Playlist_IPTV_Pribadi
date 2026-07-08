@@ -371,6 +371,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1
 #KODIPROP:inputstream.adaptive.license_key=0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
 
+#EXTINF:-1 tvg-id="b" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/CTV_News_2019.svg/500px-CTV_News_2019.svg.png" group-title="PIALA DUNIA 2026", CTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
+
 
 # <=================== SIARAN ULANG / YOUTUBE PIALA DUNIA 2026 ======================>
 
