@@ -317,6 +317,7 @@ https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-id="auto.fox.sports.1.alt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="PIALA DUNIA 2026",FOX Sports 1 (Alt)
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+# url-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" refresh="3600"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/DSports_logo_2022.svg/500px-DSports_logo_2022.svg.png" group-title="PIALA DUNIA 2026", D SPORTS 🇦🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
