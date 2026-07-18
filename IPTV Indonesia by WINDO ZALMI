@@ -274,6 +274,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/in
 #EXTINF:-1 tvg-id="Nickelodeon.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Nickelodeon_Junior_logo_2023_%28outline%2C_flat%29.svg/250px-Nickelodeon_Junior_logo_2023_%28outline%2C_flat%29.svg.png" group-title="Kids Channel", Nickelodeon Junior (V+)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
 
+#EXTINF:-1 tvg-id="auto.baby.shark.tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSk5u8qnZekBJlt1mpK1p4WqtmDfhTyPfABfWm7cN1BQ&s=10" group-title="Kids Channel",Baby Shark TV
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTVLCOPT:http-referrer=https://m.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
