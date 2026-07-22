@@ -281,6 +281,13 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/in
 #EXTINF:-1 tvg-id="Nickelodeon.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Nickelodeon_Junior_logo_2023_%28outline%2C_flat%29.svg/250px-Nickelodeon_Junior_logo_2023_%28outline%2C_flat%29.svg.png" group-title="Kids Channel", Nickelodeon Junior (V+)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecd651d0872c46d6b75a902f3b796e6b:3915b032de12140475d2696ae734cf58
+#EXTINF:-1 tvg-id="DreamWorks.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/500px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="Kids Channel",Dreamworks HD (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
+
 #EXTINF:-1 tvg-id="auto.baby.shark.tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSk5u8qnZekBJlt1mpK1p4WqtmDfhTyPfABfWm7cN1BQ&s=10" group-title="Kids Channel",Baby Shark TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
