@@ -231,7 +231,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGl
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
-#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://images.indihometv.com/tvposter/imc.png" group-title="Indonesian Entertainment & Movies",Indonesia Movie Channel (V+)
+#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png" group-title="Indonesian Entertainment & Movies",Indonesia Movie Channel (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
