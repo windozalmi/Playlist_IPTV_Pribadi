@@ -65,6 +65,15 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://object-streamo.emonaja.com/img/gtv.png" group-title="Indonesia Channels",GTV
 https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://object-streamo.emonaja.com/img/sindonews.png" group-title="Indonesia Channels",SindoNews
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=sindonews
+
+
 #EXTINF:-1 tvg-id="tvOne.id@SD" tvg-logo="https://object-streamo.emonaja.com/img/tvone.png" group-title="Indonesia Channels", TVONE (MX)
 https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd
 
@@ -82,12 +91,13 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w766556031_b3840
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://object-streamo.emonaja.com/img/cnbc.png" group-title="Indonesia Channels",CNBC Indonesia 
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w800170674_b384000_sleng.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews.id" tvg-logo="https://object-streamo.emonaja.com/img/inews.png",iNews (V+)
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews.id" tvg-logo="ttps://object-streamo.emonaja.com/img/inews.png",iNews
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
