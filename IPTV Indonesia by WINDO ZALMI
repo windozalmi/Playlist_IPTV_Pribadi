@@ -62,11 +62,6 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://object-streamo.emonaja.com/img/gtv.png" group-title="Indonesia Channels",GTV
 https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="SindoNewsTV.id" tvg-logo="https://object-streamo.emonaja.com/img/sindonews.png",SindoNews
-https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6BYfiq2PIJR7wSvY-Dl_0DRHAYBZxepdWnvSgUxm7g&s=10" group-title="Indonesia Channels", TRIBUN NEWS
 https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_720p30.m3u8
 
@@ -115,6 +110,11 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PadangTV.id@SD" tvg-logo="https://i.imgur.com/EL2BfxY.png" group-title="Indonesia Channels",PADANG TV 
 http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Indonesia Channels" tvg-id="SindoNewsTV.id" tvg-logo="https://object-streamo.emonaja.com/img/sindonews.png",SindoNews
+https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
