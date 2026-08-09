@@ -164,7 +164,7 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10bba49df37c42e78365a9995ca93f79:1d504b9bf2efa10d4d00058222b5020a
-#EXTINF:-1 tvg-id="CelebritiesTV.id" tvg-logo="https://object-streamo.emonaja.com/img/CelebritiesTV.png" group-title="Indonesian Entertainment & Movies",CelebritiesTV (V+)
+#EXTINF:-1 tvg-id="CelebritiesTV.id" tvg-logo="https://object-streamo.emonaja.com/img/CelebritiesTV.png" group-title="Indonesia Channels",CelebritiesTV (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://object-streamo.emonaja.com/img/moji.png" group-title="Indonesia Channels", MOJI
