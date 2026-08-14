@@ -196,6 +196,14 @@ http://103.148.44.38:8000/play/a03t/index.m3u8
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://tvrparlemen.dpr.go.id/?playlist=9306ee8&video=258d16b
+#EXTINF:-1 tvg-id="tvrparlemen.dpr.go.id" tvg-logo="https://tvrparlemen.dpr.go.id/wp-content/uploads/elementor/thumbs/Logo-White-qua4ba3pwe0fkb3nffnrf100sy7v4v1rrrz0t0flcs.png" group-title="Indonesia Channels",TVR Parlemen
+https://ssv1.dpr.go.id/golive/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", MDTV NET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
