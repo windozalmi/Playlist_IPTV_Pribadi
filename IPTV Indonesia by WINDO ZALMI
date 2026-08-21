@@ -26,12 +26,13 @@ http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 #https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 ###https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=205
 
-
-#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia Channels" ,SCTV (Vidio)
+#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia Channels" ,SCTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
 http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
-https://beetv.my.id/stream/vd.m3u8?ch=sctv
+#https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+###https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="Indonesia Channels",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
