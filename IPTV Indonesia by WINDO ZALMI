@@ -64,17 +64,16 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 ####EXTVLCOPT:http-user-agent=android-R+
 ####EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-###https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+###https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews.id" tvg-logo="https://object-streamo.emonaja.com/img/inews.png",iNews
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 ####EXTVLCOPT:http-user-agent=android-R+
 ####EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-###https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-
+###https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
 <=============================================================================================================================================>
 
