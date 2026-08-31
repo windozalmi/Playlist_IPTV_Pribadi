@@ -356,6 +356,10 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://static.cdnlogo.com/logos/f/70/fifa_thumb.png" group-title="SPORTS", FIFA+ US
+#EXTVLCOPT:network-caching=1000
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+
 
 # <=================================== RELIGION =========================================>
 
@@ -377,12 +381,6 @@ https://rodjatv.com/rodjatv/live.m3u8
 #EXTINF:-1 tvg-id="AlQuran.Kareem.id" tvg-name="AlQuran Kareem" tvg-logo="https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png" group-title="RELIGION",AL QURAN KAREEM (Makkah live)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd
 
-
-# <============================= PIALA DUNIA 2026 ==================================>
-
-#EXTINF:-1 tvg-logo="https://static.cdnlogo.com/logos/f/70/fifa_thumb.png" group-title="PIALA DUNIA 2026", FIFA+ US
-#EXTVLCOPT:network-caching=1000
-https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 
 
