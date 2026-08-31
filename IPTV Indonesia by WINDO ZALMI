@@ -120,7 +120,7 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36&Referer=https://player.twitch.tv/
-https://sulthanpamenan.github.io/padang-tv-playlist/playlist.m3u
+http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
