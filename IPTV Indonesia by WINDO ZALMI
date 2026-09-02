@@ -4,11 +4,9 @@
 # <================== INDONESIA FAV. CHANNEL (by: WINDO ZALMI) ======================>
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
 http://013tv.com:8080/F33848/cbd9779b/162503
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
 http://013tv.com:8080/F33848/cbd9779b/162502
 
 <=============================================================================================================================================>
