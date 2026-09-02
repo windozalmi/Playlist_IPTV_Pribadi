@@ -3,12 +3,11 @@
 
 # <================== INDONESIA FAV. CHANNEL (by: WINDO ZALMI) ======================>
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV
 https://bigdickgital.semar26.xyz/fetch?id=transtv.m3u8&auth=transsemar25
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 http://165.99.194.31:5555/stream/channelid/314965130?profile=pass
 
 <=============================================================================================================================================>
