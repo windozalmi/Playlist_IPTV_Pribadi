@@ -51,17 +51,16 @@ https://ogietv.biz.id:443/Livetv/234/1313.m3u8
 https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SW5kb3NpYXI/manifest.mpd?signature=YTRmYzgxYTE5MzlhYzQ5NzRkNmU0MDA3MjU1NDBkMmM=&time=15250126356
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://www.indosiar.com/assets/favicon.png" group-title="Indonesia Channels",Indosiar (digital)
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://ktpremium.world:2095/LT8011/827317/73617
+https://ogietv.biz.id:443/Livetv/234/1325.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="Indonesia Channels" ,SCTV (Transvision)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/U0NUVi1teQ/manifest.mpd?signature=ODM2MjA3ODU4ODNhNDRmZWU2ZDY3MDRlNmFmNjg0YWQ=&time=15250251361
+
+#EXTINF:-1 tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="Indonesia Channels" ,SCTV (digital)
+https://ogietv.biz.id:443/Livetv/234/1324.m3u8
 
 <=============================================================================================================================================>
 
