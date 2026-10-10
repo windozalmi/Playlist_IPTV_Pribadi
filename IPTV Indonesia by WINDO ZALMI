@@ -286,7 +286,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
 #EXTINF:-1 group-title="Kids Channel" tvg-logo="https://object-streamo.emonaja.com/img/mentaritv.png",Mentari TV
-https://vidsemar.pages.dev/terraluna2/8237.mpd
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+http://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_49.png" group-title="Kids Channel" tvg-id="Nickelodeon.id", Nickelodeon (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
