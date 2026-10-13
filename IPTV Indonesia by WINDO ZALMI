@@ -431,5 +431,122 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8
 http://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
 
 
+<=================================== Lancartech IPTV =========================================>
 
+#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.an.tv/img/logo-antv.svg" group-title="Lancartech IPTV",ANTV
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/01.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.id" group-title="Lancartech IPTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BN_Channel.png/revision/latest?cb=20230124080830",BN Channel
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/02.m3u8
+
+#EXTINF:-1 tvg-id="BTV.id" group-title="Lancartech IPTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.png",BTV
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/03.m3u8
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" group-title="Lancartech IPTV" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo/2026/favicon.png?v=7.0.6",CNBC Indonesia
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/04.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=12.6.0" group-title="Lancartech IPTV",CNN Indonesia
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/05.m3u8
+
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png" group-title="Lancartech IPTV",Garuda TV
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/07.m3u8
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/GTV.png" group-title="Lancartech IPTV",GTV
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/09.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://www.indosiar.com/assets/favicon.png" group-title="Lancartech IPTV",Indosiar
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/11.m3u8
+
+#EXTINF:-1 group-title="Lancartech IPTV" tvg-id="iNews.id" tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/iNews.png",iNews
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/12.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" group-title="Lancartech IPTV",Kompas TV
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/16.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/magna-channel-id.png" group-title="Lancartech IPTV",Magna TV
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/18.m3u8
+
+#EXTINF:-1 group-title="Lancartech IPTV" tvg-logo="https://object-streamo.emonaja.com/img/mentaritv.png",Mentari TV
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/20.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.id" group-title="Lancartech IPTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_107.png",Metro TV
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/21.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/MNCTV.png" group-title="Lancartech IPTV",MNC TV
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/22.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://object-streamo.emonaja.com/img/moji.png" group-title="Lancartech IPTV", MOJI
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/23.m3u8
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/RCTI.png" group-title="Lancartech IPTV",RCTI
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/26.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.republika.co.id/files/republikatv/images/reptv-logo.png" group-title="Lancartech IPTV" ,Republika TV
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/27.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/cropped-logo-RodjaTV-300x87.png" group-title="Lancartech IPTV",RodjaTV
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/28.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rtv.co.id/img/rtv.png" group-title="Lancartech IPTV" ,rtv 
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/29.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="Lancartech IPTV" ,SCTV 
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/30.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.smiletv.co.id/gallery_gen/e825e3ba70b9051ad40800263ff3f983_fit.png" group-title="Lancartech IPTV" ,Smile TV
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/32.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-t7.png" group-title="Lancartech IPTV",Trans7
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/33.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png" group-title="Lancartech IPTV",TransTV
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/34.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" group-title="Lancartech IPTV" ,TV One
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/36.m3u8
+
+#EXTINF:-1 tvg-id="tv.gunadarma.ac.id" tvg-logo="https://tv.gunadarma.ac.id/assets/ugtv-logo.png" group-title="Lancartech IPTV", UG TV
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/39.m3u8
+
+#EXTINF:-1 tvg-id="auto.vtv" tvg-logo="https://object-streamo.emonaja.com/img/vtv.png" group-title="Lancartech IPTV",VTV
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/40.m3u8
+
+#EXTINF:-1 tvg-id="cinemax.com" tvg-logo="https://static.cinemax.com/hbomax/2021-04/cinemax-icon-400.jpg?w=400" group-title="Lancartech IPTV",CINEMAX
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
+
+#EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://static.cinemax.com/2021-07/hbo-logo-blk.png?w=400" group-title="Lancartech IPTV",HBO
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+
+#EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://www.transvision.co.id/img/channel/hbo_family.png" group-title="Lancartech IPTV",HBO family
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
+
+#EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://www.transvision.co.id/img/channel/hbo_hits.png" group-title="Lancartech IPTV",HBO Hits
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/54.m3u8
+
+#EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://www.transvision.co.id/img/channel/hbo_sig.png" group-title="Lancartech IPTV",HBO Signature
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
+
+#EXTINF:-1 tvg-id="transvision.co.id" tvg-logo="https://www.transvision.co.id/img/channel/thrill.png" group-title="Lancartech IPTV",thrill
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/57.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_309.png" group-title="Lancartech IPTV",beIN Sports 1 
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/72.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_310.png" group-title="Lancartech IPTV",beIN Sports 2
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/73.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/txEG9eg.png" group-title="Lancartech IPTV",RedBull TV
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/80.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="Lancartech IPTV",SpoTV 1
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/84.m3u8
+
+#EXTINF:-1 tvg-id="lancartech.co.id" tvg-logo="https://client.lancartech.co.id/logo.png" group-title="Lancartech IPTV",BXL
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/85.m3u8
+
+#EXTINF:-1 tvg-id="lancartech.co.id" tvg-logo="https://www.transvision.co.id/img/channel/new/TVRI%20SPORT.jpg" group-title="Lancartech IPTV",TVRI Sport
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/87.m3u8
+
+#EXTINF:-1 tvg-id="lancartech.co.id" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch527_170_122" group-title="Lancartech IPTV",asian food network
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/125.m3u8
 
