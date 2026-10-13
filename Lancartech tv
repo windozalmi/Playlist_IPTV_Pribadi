@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.an.tv/img/logo-antv.svg" group-title="Indonesia Channels",ANTV
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/01.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.id" group-title="Indonesia Channels" tvg-logo="https://id.wikipedia.org/wiki/BN_Channel#/media/Berkas:BN_Channel.png",BN Channel
+#EXTINF:-1 tvg-id="MetroTV.id" group-title="Indonesia Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BN_Channel.png/revision/latest?cb=20230124080830",BN Channel
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/02.m3u8
 
 #EXTINF:-1 tvg-id="BTV.id" group-title="Indonesia Channels" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.png",BTV
@@ -51,7 +51,7 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/16.m3u8
 #EXTINF:-1 tvg-id="lancartech.co.id" tvg-logo="https://client.lancartech.co.id/logo.png" group-title="Indonesia Channels", test 17
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/17.m3u8
 
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:MagnaChannel.webp#/media/File:MagnaChannel.webp" group-title="Indonesia Channels",Magna TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/magna-channel-id.png" group-title="Indonesia Channels",Magna TV
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/18.m3u8
 
 #EXTINF:-1 tvg-id="lancartech.co.id" tvg-logo="https://client.lancartech.co.id/logo.png" group-title="Indonesia Channels", test 19
@@ -78,7 +78,7 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/25.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/RCTI.png" group-title="Indonesia Channels",RCTI
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/26.m3u8
 
-#EXTINF:-1 tvg-logo="https://id.wikipedia.org/wiki/Berkas:Republika_TV.svg#/media/Berkas:Republika_TV.svg" group-title="Indonesia Channels" ,Republika TV
+#EXTINF:-1 tvg-logo="https://static.republika.co.id/files/republikatv/images/reptv-logo.png" group-title="Indonesia Channels" ,Republika TV
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/27.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/cropped-logo-RodjaTV-300x87.png" group-title="Indonesia Channels",RodjaTV
@@ -258,7 +258,7 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/85.m3u8
 #EXTINF:-1 tvg-id="lancartech.co.id" tvg-logo="https://client.lancartech.co.id/logo.png" group-title="Indonesia Channels", test 86
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/86.m3u8
 
-#EXTINF:-1 tvg-id="lancartech.co.id" tvg-logo="https://id.wikipedia.org/wiki/TVRI_Sport#/media/Berkas:TVRI_Sport_2022.svg" group-title="SPORTS",TVRI Sport
+#EXTINF:-1 tvg-id="lancartech.co.id" tvg-logo="https://www.transvision.co.id/img/channel/new/TVRI%20SPORT.jpg" group-title="SPORTS",TVRI Sport
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/87.m3u8
 
 #EXTINF:-1 tvg-id="lancartech.co.id" tvg-logo="https://client.lancartech.co.id/logo.png" group-title="Indonesia Channels", test 88
@@ -372,7 +372,7 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/123.m3u8
 #EXTINF:-1 tvg-id="lancartech.co.id" tvg-logo="https://client.lancartech.co.id/logo.png" group-title="Indonesia Channels", test 124
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/124.m3u8
 
-#EXTINF:-1 tvg-id="lancartech.co.id" tvg-logo="https://client.lancartech.co.id/logo.png" group-title="Indonesia Channels", test 125
+#EXTINF:-1 tvg-id="lancartech.co.id" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch527_170_122" group-title="Indonesia Channels",asian food network
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/125.m3u8
 
 #EXTINF:-1 tvg-id="lancartech.co.id" tvg-logo="https://client.lancartech.co.id/logo.png" group-title="Indonesia Channels", test 126
