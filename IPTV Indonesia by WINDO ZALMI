@@ -366,33 +366,33 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-m.png" group-title="SPORTS",V+ Sports
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-m.png" group-title="SPORTS",V+ Sports (V+)
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="SPORTS",Soccer
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="SPORTS",Soccer (V+)
 #EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=115&type=drm&token=apistech
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png" group-title="SPORTS",Sportstars 1
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png" group-title="SPORTS",Sportstars 1 (V+)
 #EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=112&type=drm&token=apistech
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="SPORTS",Sportstars 2
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="SPORTS",Sportstars 2 (V+)
 #EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=113&type=drm&token=apistech
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="SPORTS",Sportstars 3
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="SPORTS",Sportstars 3 (V+)
 #EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=114&type=drm&token=apistech
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png" group-title="SPORTS",Sportstars 4
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png" group-title="SPORTS",Sportstars 4 (V+)
 #EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=205&type=drm&token=apistech
