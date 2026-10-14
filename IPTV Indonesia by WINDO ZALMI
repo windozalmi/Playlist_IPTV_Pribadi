@@ -372,7 +372,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=115
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png" group-title="SPORTS",Sportstars 1 (V+)
 #EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
@@ -462,7 +462,7 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/12.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" group-title="Lancartech IPTV",Kompas TV
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/16.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/magna-channel-id.png" group-title="Lancartech IPTV",Magna TV
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501720_tvchannels_v1.jpg" group-title="Lancartech IPTV",Magna TV
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/18.m3u8
 
 #EXTINF:-1 group-title="Lancartech IPTV" tvg-logo="https://object-streamo.emonaja.com/img/mentaritv.png",Mentari TV
@@ -549,3 +549,5 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/87.m3u8
 #EXTINF:-1 tvg-id="lancartech.co.id" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch527_170_122" group-title="Lancartech IPTV",asian food network
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/125.m3u8
 
+#EXTINF:-1 tvg-id="makkahtv.tv" tvg-logo="https://makkahtv.tv/assets/images/id-pic-1446-website.png-128x128.png" group-title="Lancartech IPTV",Makkah TV
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/189.m3u8
