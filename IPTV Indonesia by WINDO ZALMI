@@ -68,6 +68,14 @@ https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_s
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=9
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://www.indosiar.com/assets/favicon.png" group-title="Indonesia Channels",Indosiar (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/vid/index.mpd?id=2058&type=drm
+http://tvratu.my.id/vid/index.mpd?id=205&type=dash
+
 #EXTINF:-1 tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="Indonesia Channels" ,SCTV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
