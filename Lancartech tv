@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.an.tv/img/logo-antv.svg" group-title="Indonesia Channels",ANTV
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/01.m3u8
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/01.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="Indonesia Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BN_Channel.png/revision/latest?cb=20230124080830",BN Channel
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/02.m3u8
+hhttps://iptv.lancartech.co.id:443/Farhan@90/18062025/02.m3u8
 
 #EXTINF:-1 tvg-id="BTV.id" group-title="Indonesia Channels" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.png",BTV
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/03.m3u8
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/03.m3u8
 
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo/2026/favicon.png?v=7.0.6",CNBC Indonesia
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/04.m3u8
