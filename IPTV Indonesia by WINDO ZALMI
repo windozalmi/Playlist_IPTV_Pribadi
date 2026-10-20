@@ -243,7 +243,7 @@ https://247wlive.foxweather.com/stream/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
 
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://scontent.cdninstagram.com/v/t51.2885-19/82450806_610918249730049_2049910374811041792_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Y5X2g9WgmO0Q7kNvwFCbugx&_nc_oc=Adoo4jYTx8-AOBkMkJT5DrRIJmwDnhWbs274OrcH-wsH294DDomMPEEVKssh8mZEquI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7b689&oh=00_AQLJuzjoAXlRl6yfsI05iAIZZN4l92EAJ2c1sS7Il-O2Bg&oe=6AB6AE1A",Real Wild
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://raw.githubusercontent.com/windozalmi/Playlist_IPTV_Pribadi/refs/heads/m3u-ipvt/real%20wild.png",Real Wild
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wired2fish.com/wp-content/uploads/2024/10/logo-wired2fish.png" group-title="PENGETAHUAN",Wired 2 Fish
