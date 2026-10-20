@@ -1,0 +1,219 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Channel TV Premium",TRANSTV
+http://live-birutv.com/play/transtv.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",TRANS7
+http://live-birutv.com/play/trans7.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",RCTI
+https://live1.rctiplus.com/RCTI2022.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",SCTV1
+https://tvn.x10.mx/1/master-1.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",SCTV2
+https://maungbodas.tv/play/iptv/m3u/sctv.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",SCTV3
+https://vod.mycamtv.net/1.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",TVONE
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",INDOSIAR
+http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",ANTV
+ttp://id2.indostreamingtv.com/live/antv/index.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",KOMPAS TV
+http://live-birutv.com/play/kompastv.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",METRO TV
+http://edge.metrotvnews.com/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="CENTERTAIMENT",Blue Ant Extreme
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 group-title="CENTERTAIMENT",Blue Ant Entertainment
+http://210.210.155.35/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES",CINEMAXFULL
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b1200000.m3u8?token=bukuantv
+
+#EXTINF:-1 group-title="MOVIES",K+
+http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES",ONE
+http://210.210.155.66/h/h143/index2.m3u8
+
+#EXTINF:-1 group-title="MOVIES",Cinema World 1
+http://210.210.155.66/h/h04/01.m3u8
+
+http://rr.dens.tv/h/h04/index2.m3u8
+
+#EXTINF:-1 group-title="MOVIES",Celestial Movies 1
+http://45.126.83.51/qwr9ew/s/s33/01.m3u8
+
+#EXTINF:-1 group-title="USETV",USESPORT
+http://iptvid.my.id/hmm/useetl1.m3u8
+
+#EXTINF:-1 group-title="MOVIES",Celestial Movies 2
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES",Zee Bioskop
+http://45.126.83.51/qwr9ew/s/s32/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES",Thrill 1
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1 group-title="HOROR",Thrill 2
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1 group-title="CENTERTAIMENT",Style HD
+http://210.210.155.35/uq2663/h/h01/01.m3u8
+
+#EXTINF:-1 group-title="NEWS",AXN
+http://210.247.248.113:25461/live/arsila200/arsila200/31.m3u8
+
+#EXTINF:-1 group-title="MOVIES",FILMY
+http://210.210.155.35/uq2663/h/h154/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="MOVIES",Telenovela Channel
+http://210.210.155.35/uq2663/h/h153/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="MOVIES",DUBAI International
+http://210.210.155.35/uq2663/h/h152/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="MOVIES",Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+
+#EXTINF:-1 group-title="MOVIES",PARAMOUNT
+http://corner-tv.web.id:8080/prem1bulan/prem1bulan/4412.m3u8
+
+#EXTINF:-1 group-title="MOVIES",BIOSKOP INDO
+http://210.247.248.113:25461/live/nifasyarif111/nifasyarif111/26.m3u8
+
+#EXTINF:-1 group-title="MOVIES",EFLIK
+http://iptvid.my.id/hmm/flik.m3u8
+
+#EXTINF:-1 group-title="MOVIES",HBO
+https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
+
+#EXTINF:-1 group-title="MOVIES",HBO Signature
+https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
+
+#EXTINF:-1 group-title="MOVIES",HBO Family
+https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
+
+#EXTINF:-1 group-title="MOVIES",HBO Hits
+https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
+
+#EXTINF:-1 group-title="MOVIES",Cinemax
+https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
+
+#EXTINF:-1 group-title="MOVIES",Red By HBO
+https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
+
+#EXTINF:-1 group-title="MOVIES",KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES",Thrill 3
+http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+
+#EXTINF:-1 group-title="MOVIES",Thrill 4
+http://rr2.dens.tv/s/s34/index1.m3u8
+
+#EXTINF:-1 group-title="MOVIES",My CinemaX 1
+http://210.247.248.113:25461/live/lisda888/lisda888/25.m3u8
+
+#EXTINF:-1 group-title="MOVIES",GALAXYMOVIE
+http://corner-tv.web.id:8080/prem1bulan/prem1bulan/52.m3u8
+
+#EXTINF:-1 group-title="MOVIES",GALAXYMOVIE PREMIUM
+http://210.247.248.113:25461/live/blackpink000/blackpink000/37.m3u8
+
+#EXTINF:-1 group-title="MOVIES",My Cinema
+http://rr.dens.tv/h/h192/index.m3u8
+
+#EXTINF:-1 group-title=="MOVIES",My Cinema 4
+http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="MOVIES",Cinema World 2
+http://210.210.155.66/h/h04/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES",Cinema World 3
+http://rr.dens.tv/h/h04/index10.m3u8
+
+#EXTINF:-1 group-title="MOVIES",HBO PLUS
+http://181.78.22.214:8000/play/a00o
+
+#EXTINF:-1 group-title="MOVIES",HBO HITS
+http://diameterproject.xyz:8080/hits5000/hits5000/38.m3u8
+
+#EXTINF:-1 group-title="MOVIES",HBO EXTREME
+http://181.78.22.214:8000/play/a00p
+
+#EXTINF:-1 group-title="MOVIES",GALAXY
+http://corner-tv.web.id:8080/prem1bulan/prem1bulan/52.m3u8
+
+#EXTINF:-1 group-title="MOVIES",CINEMAX2
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b1200000.m3u8?token=bukuantv
+
+#EXTINF:-1 group-title="KIDS",NICKELODEON
+http://210.247.248.113:25461/live/novsh000/novsh000/85.m3u8
+
+#EXTINF:-1 group-title="KIDS",ANIPLUS
+http://rr1.dens.tv/h/h02/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ANIPLUS_HD
+
+#EXTINF:-1 group-title="KIDS",Cartoon Network
+https://iptv.lancartech.co.id:443/play/myxADIws9mAcjlgXoByqDp7qdLolSu8s7kXqNsOcy3U
+
+#EXTINF:-1 group-title="KIDS",Disney Channel
+https://iptv.lancartech.co.id:443/play/myxADIws9mAcjlgXoByqDny908AEuWwi90Vd5vkA47c
+
+#EXTINF:-1 group-title="KIDS",Spacetoon HD
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
+#EXTINF:-1 group-title="USETV",KOMPASTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff3268ef7e5a44f541a7cbde7626ef57566
+
+#EXTINF:-1 group-title="USETV",NETTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f0268ef7e5a44f541a7cbde7626ef57566
+
+#EXTINF:-1 group-title="USETV",USEETRANS7
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
+
+#EXTINF:-1 group-title="USETV",USETRANSTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e0268ef7e5a44f541a7cbde7626ef57566
+
+#EXTINF:-1 group-title="MOVIES",ANIMAX
+https://dens.seulangatv.com/dr9445/h/h144/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Animax_HD
+
+#EXTINF:-1 group-title="MOVIES",ANIMAX
+https://dens.seulangatv.com/dr9445/h/h144/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Animax_HD
+
+#EXTINF:-1 group-title="WORLDCUP",LIVE1
+https://live5.thetavideoapi.com/hls/live/2015866/hls_streamer_us_central_0011/stream_4z2btq5qrfb7errkfe47k5gx4_source/chunklist.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP",LIVE2
+https://bl.uma.media/live/407384/HLS/6307840_7\,4280320/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP",LIVE3
+https://maungbodas.tv/play/iptv/m3u/beinmax1.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP",LIVE4
+http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP",LIVE5
+https://cdn6.goprimetime.info:443/feed/202205171929/chpptvhd/index.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP",LIVE6
+http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP",LIVE7
+https://input.futebolgratis.net:8088/hls/livechannel2.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP",LIVE7
+https://maungbodas.tv/play/iptv/m3u/bein1.m3u8
