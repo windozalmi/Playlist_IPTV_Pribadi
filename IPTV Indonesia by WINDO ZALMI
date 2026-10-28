@@ -56,34 +56,31 @@ https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_s
 
 <=============================================================================================================================================>
 
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://www.indosiar.com/assets/favicon.png",Indosiar (Vidio)
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://www.indosiar.com/assets/favicon.png",Indosiar (V+)
 #EXTGRP:Indonesia Channels
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/vid/index.mpd?id=2058&type=drm
-http://tvratu.my.id/vid/index.mpd?id=205&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=9
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png",SCTV (Vidio)
+#EXTINF:-1 tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png",SCTV (V+)
 #EXTGRP:Indonesia Channels
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/vid/index.mpd?id=2048&type=drm
-http://tvratu.my.id/vid/index.mpd?id=204&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=8
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
 <=============================================================================================================================================>
 
-#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.an.tv/img/logo-antv.svg",ANTV (Vidio)
+#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.an.tv/img/logo-antv.svg",ANTV (V+)
 #EXTGRP:Indonesia Channels
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/vid/index.mpd?id=7828&type=drm
-http://tvratu.my.id/vid/index.mpd?id=782&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=10
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=12.6.0",CNN Indonesia 
 #EXTGRP:Indonesia Channels
