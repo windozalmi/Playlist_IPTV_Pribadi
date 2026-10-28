@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTGRP:TRAKTIR KOPI
+#EXTINF:-1 tvg-logo="https://github.com/windozalmi/Playlist_IPTV_Pribadi/blob/m3u-ipvt/KIRIM%20KOPI%20ADMIN.png",TRAKTIR ADMIN KOPI
+https://github.com/windozalmi/Playlist_IPTV_Pribadi/blob/m3u-ipvt/TRAKTIR%20ADMIN%20KOPI.mp4
+
+
+
 # <================== INDONESIA FAV. CHANNEL (by: WINDO ZALMI) ======================>
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/RCTI.png",RCTI (V+)
