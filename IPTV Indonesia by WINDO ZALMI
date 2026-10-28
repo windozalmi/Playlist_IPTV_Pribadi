@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/windozalmi/Playlist_IPTV_Pribadi/refs/heads/m3u-ipvt/KIRIM%20KOPI%20ADMIN.png",TRAKTIR ADMIN KOPI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/windozalmi/Playlist_IPTV_Pribadi/refs/heads/m3u-ipvt/KIRIM%20KOPI%20ADMIN.png",TRAKTIR "ES TEH" NYA DONG
 #EXTGRP:Windo Zalmi
 https://github.com/windozalmi/Playlist_IPTV_Pribadi/raw/refs/heads/m3u-ipvt/TRAKTIR%20AKU%20DONG.mp4
 
