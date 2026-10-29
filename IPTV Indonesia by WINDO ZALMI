@@ -257,7 +257,7 @@ https://247wlive.foxweather.com/stream/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/windozalmi/Playlist_IPTV_Pribadi/refs/heads/m3u-ipvt/real%20wild.png",Real Wild
+#EXTINF:-1 tvg-logo="https://github.com/windozalmi/Galery-Saya/blob/Playlist/real%20wild.png?raw=true",Real Wild
 #EXTGRP:PENGETAHUAN
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
 
