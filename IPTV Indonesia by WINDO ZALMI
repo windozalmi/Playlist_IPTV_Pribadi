@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://github.com/windozalmi/Galery-Saya/blob/Playlist/KIRIM%20KOPI%20ADMIN%20-%20kotak.png?raw=true",TRAKTIR AKU DONG
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/windozalmi/Galery-Saya/refs/heads/Playlist/KIRIM%20KOPI%20ADMIN.png",TRAKTIR AKU DONG
 #EXTGRP:Windo Zalmi
 https://github.com/windozalmi/Galery-Saya/raw/refs/heads/Playlist/TRAKTIR%20AKU%20DONG.mp4
 
@@ -257,7 +257,7 @@ https://247wlive.foxweather.com/stream/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/windozalmi/Galery-Saya/blob/Playlist/real%20wild.png?raw=true",Real Wild
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/windozalmi/Galery-Saya/refs/heads/Playlist/real%20wild.png",Real Wild
 #EXTGRP:PENGETAHUAN
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
 
