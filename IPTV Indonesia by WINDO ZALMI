@@ -516,5 +516,9 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
 <=================================== Lancartech IPTV =========================================>
 
 
+<=================================== CCTV Rumah =========================================>
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/windozalmi/Galery-Saya/refs/heads/Playlist/windo%20channel%20tv.jpeg",CCTV Teras Bawah
+#EXTGRP:CCTV Rumah
+rtsp://192.168.31.187/live/ch00_1
 
