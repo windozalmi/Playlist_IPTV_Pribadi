@@ -517,5 +517,5 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/windozalmi/Galery-Saya/refs/heads/Playlist/windo%20channel%20tv.jpeg",CCTV Teras_Bawah
 #EXTGRP:CCTV Saya
-http://36.81.72.242:8899
+rtsp://36.81.72.242:554/live/ch00_1
 
