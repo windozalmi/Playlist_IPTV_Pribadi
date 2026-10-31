@@ -513,5 +513,10 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8
 http://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
 
 
-<=================================== Lancartech IPTV =========================================>
+<=================================== CCTV Saya =========================================>
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/windozalmi/Galery-Saya/refs/heads/Playlist/windo%20channel%20tv.jpeg",CCTV Teras_Bawah
+#EXTGRP:CCTV Saya
+http://192.168.31.187:8899
+
 
