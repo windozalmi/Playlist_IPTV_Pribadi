@@ -1,10 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/windozalmi/Galery-Saya/refs/heads/Playlist/KIRIM%20KOPI%20ADMIN.png",TRAKTIR AKU DONG
-#EXTGRP:Windo Zalmi
-https://github.com/windozalmi/Galery-Saya/raw/refs/heads/Playlist/TRAKTIR%20AKU%20DONG.mp4
-
 <================== INDONESIA FAV. CHANNEL (by: WINDO ZALMI) ======================>
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/RCTI.png",RCTI (R+)
@@ -512,6 +508,9 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8
 http://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
 
 
-<=================================== CCTV Saya =========================================>
+<=================================== QRis Saya =========================================>
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/windozalmi/Galery-Saya/refs/heads/Playlist/KIRIM%20KOPI%20ADMIN.png",TRAKTIR AKU DONG
+#EXTGRP:Windo Zalmi
+https://github.com/windozalmi/Galery-Saya/raw/refs/heads/Playlist/TRAKTIR%20AKU%20DONG.mp4
 
