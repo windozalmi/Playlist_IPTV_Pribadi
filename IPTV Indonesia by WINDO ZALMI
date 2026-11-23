@@ -8,14 +8,16 @@
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rplus.inisemar.my.id/rcti.m3u8
+https://rctiplus123.mikrofast.my.id/rctiplus/rcti/redirect.m3u8
+#https://rplus.inisemar.my.id/rcti.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/MNCTV.png",MNC TV (R+)
 #EXTGRP:Indonesia Channels
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rplus.inisemar.my.id/mnctv.m3u8
+https://rctiplus123.mikrofast.my.id/rctiplus/mnctv/redirect.m3u8
+#https://rplus.inisemar.my.id/mnctv.m3u8
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/GTV.png",GTV (R+)
 #EXTGRP:Indonesia Channels
@@ -24,12 +26,15 @@ https://rplus.inisemar.my.id/mnctv.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://rctiplus123.mikrofast.my.id/rctiplus/gtv/redirect.m3u8
 
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/GTV.png",GTV (HD)
+#EXTGRP:Indonesia Channels
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRoVSjf2onxUm95pYqUSc5XI
+
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/iNews.png",iNews (R+)
 #EXTGRP:Indonesia Channels
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://rctiplus123.mikrofast.my.id/rctiplus/inews/redirect.m3u8
-
 #https://dsgtq5sngxkde.cloudfront.net/inews/index.m3u8
 
 <=============================================================================================================================================>
