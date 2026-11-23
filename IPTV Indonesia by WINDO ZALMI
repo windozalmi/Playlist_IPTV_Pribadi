@@ -19,13 +19,9 @@ https://rplus.inisemar.my.id/mnctv.m3u8
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/GTV.png",GTV (R+)
 #EXTGRP:Indonesia Channels
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://dsgtq5sngxkde.cloudfront.net/gtv/index.m3u8
-
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#https://linier-gtv.rctiplus.id/gtv-sdi.m3u8?auth_key=1795422356-54527dcb8a831f8b4710510f2c656a48-0-36cf1ff019b71f5cc1aba1e08b773896
+https://linier-gtv.rctiplus.id/gtv-sdi.m3u8?auth_key=1795422356-54527dcb8a831f8b4710510f2c656a48-0-36cf1ff019b71f5cc1aba1e08b773896
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/iNews.png",iNews (R+)
 #EXTGRP:Indonesia Channels
