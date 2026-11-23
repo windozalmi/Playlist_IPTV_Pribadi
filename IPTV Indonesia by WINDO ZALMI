@@ -27,7 +27,7 @@ https://linier-gtv.rctiplus.id/gtv-sdi.m3u8?auth_key=1795422356-54527dcb8a831f8b
 #EXTGRP:Indonesia Channels
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://linier-inews.rctiplus.id/inews-sdi-avc1_1000000=22-mp4a_96000=1.m3u8
+https://dsgtq5sngxkde.cloudfront.net/inews/index.m3u8
 
 <=============================================================================================================================================>
 
@@ -119,7 +119,7 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
 #EXTINF:-1 tvg-id="PadangTV.id@SD" tvg-logo="https://i.imgur.com/EL2BfxY.png",Padang TV 
-#EXTGRP:Indonesia Channels
+#EXTGRP:Local Channels
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36&Referer=https://player.twitch.tv/
@@ -166,7 +166,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="" tvg-logo="https://klik.tvri.go.id/po-content/uploads/sumbar.png",TVRI Sumatera Barat
-#EXTGRP:Indonesia Channels
+#EXTGRP:Local Channels
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
@@ -216,7 +216,7 @@ https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_720p30.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zDD817V.png",RRI NET
 #EXTGRP:Indonesia Channels
-https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a.m3u8
+#https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c4qsxIn.png" ,BERITA SATU
 #EXTGRP:Indonesia Channels
