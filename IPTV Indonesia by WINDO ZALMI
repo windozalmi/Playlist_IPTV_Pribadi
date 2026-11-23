@@ -229,6 +229,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=l
 
 <=============================================================================================================================================>
 
+#EXTINF:-1 tvg-id="25" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-logo="https://www.visionplus.id/images/repository/598/598-LOGO-m.png" group-title="Local Channels",JAKTV (Vision +)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/jaktv/index.m3u8
+
 #EXTINF:-1 tvg-id="26" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-logo="https://www.visionplus.id/images/repository/700/700-LOGO-m.png" group-title="Local Channels",Bali TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
