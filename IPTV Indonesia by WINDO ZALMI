@@ -626,7 +626,7 @@ https://dsgtq5sngxkde.cloudfront.net/aljazeera/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://dsgtq5sngxkde.cloudfront.net/bbcworld/index.m3u8
 
-#EXTINF:-1 tvg-id="BloombergTV.us@Asia" group-title="News" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_bloomberg.png",Bloomberg (V+)
+#EXTINF:-1 tvg-id="BloombergTV.us@Asia" group-title="News Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_bloomberg.png",Bloomberg (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://dsgtq5sngxkde.cloudfront.net/bloomberg/index.m3u8
