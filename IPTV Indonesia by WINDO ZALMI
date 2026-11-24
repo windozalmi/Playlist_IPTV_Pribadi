@@ -69,12 +69,12 @@ http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRmDUdjwG6cxY-fo1sXNNp7A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
-https://op-flashcon-digdayahd-1.dens.tv/h/h204/index.m3u8
-#https://vidio123.mikrofast.web.id/vidio/204/index.mpd
+https://vidio123.mikrofast.web.id/vidio/204/index.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.an.tv/img/logo-antv.svg",ANTV
 #EXTGRP:Indonesia Channels
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://dsgtq5sngxkde.cloudfront.net/antv/index.m3u8
 
 <=============================================================================================================================================>
