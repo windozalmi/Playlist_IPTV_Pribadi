@@ -479,52 +479,55 @@ http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRlvPphvD7DU58u1jaFiwSr8
 #EXTGRP:Sport Live (Android)
 http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRll5Th8Jid4Nl7iqGi7V6CE
 
+
 <=============================================================================================================================================>
 
-EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-m.png",V+ Sports (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-m.png",V+ Sports (V+)
 #EXTGRP:SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1011
+#KODIPROP:inputstream.adaptive.license_key=https://adem1.serv00.net/vision/adem_vision2.php?id=1011&type=license
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/f224a4945f2f48e892fb896645a9af6b/index.mpd
 
-EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer (V+)
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer (V+)
 #EXTGRP:SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=115
+#KODIPROP:inputstream.adaptive.license_key=https://adem1.serv00.net/vision/adem_vision2.php?id=115&type=license
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars 1 (V+)
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars 1 (V+)
 #EXTGRP:SPORTS
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=112
+#KODIPROP:inputstream.adaptive.license_key=https://adem1.serv00.net/vision/adem_vision2.php?id=112&type=license
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2 (V+)
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2 (V+)
 #EXTGRP:SPORTS
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=113
+#KODIPROP:inputstream.adaptive.license_key=https://adem1.serv00.net/vision/adem_vision2.php?id=113&type=license
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 3 (V+)
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 3 (V+)
 #EXTGRP:SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=114
+#KODIPROP:inputstream.adaptive.license_key=https://adem1.serv00.net/vision/adem_vision2.php?id=114&type=license
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4 (V+)
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4 (V+)
 #EXTGRP:SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=205
+#KODIPROP:inputstream.adaptive.license_key=https://adem1.serv00.net/vision/adem_vision2.php?id=205&type=license
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
