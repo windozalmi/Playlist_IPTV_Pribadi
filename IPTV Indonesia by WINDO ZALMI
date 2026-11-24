@@ -182,7 +182,7 @@ https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/windozalmi/Galery-Saya/refs/heads/Playlist/TVRI_Sport_2022.png",TVRI Sport (dens)
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/windozalmi/Galery-Saya/refs/heads/Playlist/TVRI_Sport_2022.png",TVRI Sport
 #EXTGRP:Indonesia Channels
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
