@@ -482,7 +482,7 @@ http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRll5Th8Jid4Nl7iqGi7V6CE
 
 <=============================================================================================================================================>
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-m.png",V+ Sports (V+)
+EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-m.png",V+ Sports (V+)
 #EXTGRP:SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -490,7 +490,7 @@ http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRll5Th8Jid4Nl7iqGi7V6CE
 #KODIPROP:inputstream.adaptive.license_key=https://adem1.serv00.net/vision/adem_vision2.php?id=1011&type=license
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/f224a4945f2f48e892fb896645a9af6b/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer (V+)
+EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer (V+)
 #EXTGRP:SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -522,7 +522,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #KODIPROP:inputstream.adaptive.license_key=https://adem1.serv00.net/vision/adem_vision2.php?id=114&type=license
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4 (V+)
+EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4 (V+)
 #EXTGRP:SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
