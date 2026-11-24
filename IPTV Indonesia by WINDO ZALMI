@@ -447,7 +447,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 <========================SPORT-LIVE================================>
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/RCTI.png",RCTI (HD)
-#EXTGRP:Sport Live
+#EXTGRP:Sport Live (Android)
 http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRgGwvgBkFz4lqoryvAzEKzA
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/MNCTV.png",MNC TV (HD)
