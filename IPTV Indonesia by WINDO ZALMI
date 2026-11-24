@@ -238,7 +238,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8
 
 <=============================================================================================================================================>
 
-EXTINF:-1 tvg-id="24" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-logo="https://www.visionplus.id/images/repository/856/856-LOGO-m.png" group-title="Local Channels",JTV (V+)
+#EXTINF:-1 tvg-id="24" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-logo="https://www.visionplus.id/images/repository/856/856-LOGO-m.png" group-title="Local Channels",JTV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
